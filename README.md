@@ -30,6 +30,6 @@ This repository is licensed under the [MIT License](./LICENSE). By contributing 
 
 ## Questions or Issues
 
-If you have any questions, encounter issues, or wish to discuss translations, please feel free to create an issue in our [Issue Tracker](./issues).
+If you have any questions, encounter issues, or wish to discuss translations, please feel free to create an issue in our [Issue Tracker](https://github.com/v-limo/suomen-kieli/issues).
 
 Thank you for being a part of our effort to make Finnish-English translations accessible and accurate for everyone. We appreciate your contributions and support!
