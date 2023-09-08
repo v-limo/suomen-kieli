@@ -1,49 +1,35 @@
 # Finnish-English Translations Repository
 
-Welcome to the Finnish-English Translations repository! This is a community-driven project aimed at collecting and maintaining a database of Finnish language words and their English translations.
+Welcome to the Finnish-English Translations repository! This project is dedicated to building and maintaining a comprehensive database of Finnish language words and their English translations. We invite contributors from the language learning and enthusiast community to help us expand and improve this valuable resource.
 
-## How to Contribute
+## Getting Started
 
-We encourage contributions from language enthusiasts and learners like you. Here's how you can contribute:
+### Using Translations
 
-1. **Add New Translations**:
-   - To add new Finnish-English translations, follow these steps:
-     - Navigate to the [`data`](./data) directory.
-     - You can choose to update either the `translations.json` or `translations.csv` file.
-     - Add your translations in the chosen format (JSON or CSV). Ensure proper formatting and include both the Finnish word and its English translation.
-   - After adding translations, submit a Pull Request (PR) following the guidelines below.
+- To access the translations, simply explore the [`translations.json`](./data/translations.json) file. This JSON file contains a growing list of Finnish words and their corresponding English translations.
 
-2. **Submit a Pull Request (PR)**:
-   - When you're ready to contribute, submit a PR with the following details:
-     - Title: Briefly describe your contribution (e.g., "Added 10 new translations").
-     - Description: Provide context or additional information about your PR.
-     - Make sure your PR adheres to the guidelines mentioned in the [Contributing Guidelines](./CONTRIBUTING.md).
+### Contributing
 
-3. **Discuss and Collaborate**:
-   - Engage with the community in the [Discussions](./discussions) section to discuss translations, suggest improvements, or seek assistance.
+- If you'd like to contribute to our translation database, we welcome your help. Follow these steps to contribute:
+  1. Fork this repository to your GitHub account.
+  2. Clone the forked repository to your local machine.
+  3. Add new translations or improve existing ones in the [`translations.json`](./data/translations.json) file.
+  4. Commit your changes with descriptive messages.
+  5. Push your changes to your forked repository.
+  6. Create a Pull Request (PR) to merge your contributions into this main repository.
 
-## Contributing Guidelines
-
-Before contributing, please read our [Contributing Guidelines](./CONTRIBUTING.md) for detailed instructions on how to format your contributions and ensure smooth collaboration.
+For more detailed instructions on contributing, please refer to our [Contributing Guidelines](./CONTRIBUTING.md).
 
 ## Code of Conduct
 
-Please note that this project adheres to our [Code of Conduct](./CODE_OF_CONDUCT.md). We expect all contributors to follow these guidelines to maintain a respectful and inclusive environment.
+We value a friendly and inclusive community. Please review our [Code of Conduct](./CODE_OF_CONDUCT.md) to understand the standards of behavior we expect from all contributors and participants.
 
-## Licensing
+## License
 
-This repository is licensed under the [MIT License](./LICENSE). By contributing, you agree that your contributions will be licensed under this license.
-
-## Contributors
-
-We appreciate the valuable contributions of all our contributors. You can find a list of contributors in [CONTRIBUTORS.md](./CONTRIBUTORS.md).
-
-## Get Started
-
-To get started with using the translations or contributing, please refer to the [Getting Started Guide](./GETTING_STARTED.md).
+This repository is licensed under the [MIT License](./LICENSE). By contributing to this project, you agree that your contributions will be licensed under this license.
 
 ## Questions or Issues
 
-If you have questions or encounter any issues with the repository, please create an issue in the [Issue Tracker](./issues).
+If you have any questions, encounter issues, or wish to discuss translations, please feel free to create an issue in our [Issue Tracker](./issues).
 
-Thank you for being a part of this collaborative effort to expand our Finnish-English translation database! ✨️
+Thank you for being a part of our effort to make Finnish-English translations accessible and accurate for everyone. We appreciate your contributions and support!
