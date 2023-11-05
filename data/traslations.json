@@ -7348,5 +7348,2999 @@
     "partOfSpeech": "adjective",
     "definition": "essential",
     "example": "Hyvä johtajuus on olennainen osa menestyvää organisaatiota. (Good leadership is an essential part of a successful organization.)"
+  },
+  {
+    "word": "ote",
+    "partOfSpeech": "noun",
+    "definition": "extract",
+    "example": "Ota ote tästä köydestä. (Take hold of this rope.)"
+  },
+  {
+    "word": "sekunti",
+    "partOfSpeech": "noun",
+    "definition": "second (unity of time)",
+    "example": "Yksi sekunti on hyvin lyhyt aika. (One second is a very short time.)"
+  },
+  {
+    "word": "selvillä",
+    "partOfSpeech": "adjective",
+    "definition": "known, decided",
+    "example": "Olen selvillä siitä, mitä haluan tehdä. (I am decided on what I want to do.)"
+  },
+  {
+    "word": "säännöllinen",
+    "partOfSpeech": "adjective",
+    "definition": "regular",
+    "example": "Hänellä on säännöllinen työaika. (He has regular working hours.)"
+  },
+  {
+    "word": "tarkoituksenmukainen",
+    "partOfSpeech": "adjective",
+    "definition": "appropriate (fitting to the purpose)",
+    "example": "Käytä tarkoituksenmukaista työkalua. (Use the appropriate tool.)"
+  },
+  {
+    "word": "teksti",
+    "partOfSpeech": "noun",
+    "definition": "text",
+    "example": "Lue tämä teksti ääneen. (Read this text aloud.)"
+  },
+  {
+    "word": "tulkinta",
+    "partOfSpeech": "noun",
+    "definition": "interpretation",
+    "example": "Tämä on vain yksi mahdollinen tulkinta tapahtumista. (This is just one possible interpretation of the events.)"
+  },
+  {
+    "word": "tyytyväinen",
+    "partOfSpeech": "adjective",
+    "definition": "satisfied",
+    "example": "Olen tyytyväinen tuloksiin. (I am satisfied with the results.)"
+  },
+  {
+    "word": "yhtenäinen",
+    "partOfSpeech": "adjective",
+    "definition": "uniform",
+    "example": "Kaikilla on yhtenäinen puku. (Everyone is wearing a uniform.)"
+  },
+  {
+    "word": "alkuperäinen",
+    "partOfSpeech": "adjective",
+    "definition": "original",
+    "example": "Tämä on alkuperäinen maalaus. (This is an original painting.)"
+  },
+  {
+    "word": "Amerikka",
+    "partOfSpeech": "noun",
+    "definition": "America",
+    "example": "Matkustan Amerikkaan ensi kuussa. (I am traveling to America next month.)"
+  },
+  {
+    "word": "halpa",
+    "partOfSpeech": "adjective",
+    "definition": "cheap",
+    "example": "Tämä paita on todella halpa. (This shirt is really cheap.)"
+  },
+  {
+    "word": "henkilökohtainen",
+    "partOfSpeech": "adjective",
+    "definition": "personal, intimate",
+    "example": "Tämä on minulle hyvin henkilökohtainen asia. (This is a very personal matter for me.)"
+  },
+  {
+    "word": "kausi",
+    "partOfSpeech": "noun",
+    "definition": "season",
+    "example": "Talvi on kylmin kausi. (Winter is the coldest season.)"
+  },
+  {
+    "word": "kerros",
+    "partOfSpeech": "noun",
+    "definition": "floor",
+    "example": "Asun neljännessä kerroksessa. (I live on the fourth floor.)"
+  },
+  {
+    "word": "korkeakoulu",
+    "partOfSpeech": "noun",
+    "definition": "institution of higher education",
+    "example": "Hän opiskelee korkeakoulussa. (He studies at the university.)"
+  },
+  {
+    "word": "Oulu",
+    "partOfSpeech": "noun",
+    "definition": "Oulu (city)",
+    "example": "Oulu sijaitsee Pohjois-Suomessa. (Oulu is located in Northern Finland.)"
+  },
+  {
+    "word": "suosia",
+    "partOfSpeech": "verb",
+    "definition": "to favor",
+    "example": "Hän suosii aina sitä ravintolaa. (He always favors that restaurant.)"
+  },
+  {
+    "word": "tuossa",
+    "partOfSpeech": "adverb",
+    "definition": "there",
+    "example": "Laita kirja tuossa pöydällä. (Put the book there on the table.)"
+  },
+  {
+    "word": "työskennellä",
+    "partOfSpeech": "verb",
+    "definition": "to work",
+    "example": "Hän työskentelee sairaalassa. (He works at the hospital.)"
+  },
+  {
+    "word": "vihreä",
+    "partOfSpeech": "adjective",
+    "definition": "green",
+    "example": "Ruoho on vihreä. (The grass is green.)"
+  },
+  {
+    "word": "virhe",
+    "partOfSpeech": "noun",
+    "definition": "error, mistake",
+    "example": "Tämä on yleinen virhe. (This is a common mistake.)"
+  },
+  {
+    "word": "virta",
+    "partOfSpeech": "noun",
+    "definition": "flow, stream; current (physics, electronics); zip, energy, vigor, vim (personal energy)",
+    "example": "Joki virtaa nopeasti. (The river flows fast.)"
+  },
+  {
+    "word": "yksityiskohtainen",
+    "partOfSpeech": "adjective",
+    "definition": "detailed, elaborate",
+    "example": "Raportti oli erittäin yksityiskohtainen. (The report was very detailed.)"
+  },
+  {
+    "word": "alentaa",
+    "partOfSpeech": "verb",
+    "definition": "to lower, to decrease, to reduce, to diminish",
+    "example": "Yritämme alentaa kustannuksia. (We are trying to lower costs.)"
+  },
+  {
+    "word": "asiakas",
+    "partOfSpeech": "noun",
+    "definition": "client, customer",
+    "example": "Asiakkaat ovat tyytyväisiä palveluun. (The customers are satisfied with the service.)"
+  },
+  {
+    "word": "emäntä",
+    "partOfSpeech": "noun",
+    "definition": "hostess, lady of the house",
+    "example": "Emäntä toivotti vieraat tervetulleiksi. (The hostess welcomed the guests.)"
+  },
+  {
+    "word": "ihmeellinen",
+    "partOfSpeech": "adjective",
+    "definition": "wonderful, miraculous",
+    "example": "Se oli todella ihmeellinen kokemus. (It was a truly wonderful experience.)"
+  },
+  {
+    "word": "iho",
+    "partOfSpeech": "noun",
+    "definition": "skin",
+    "example": "Puhdista iho huolellisesti. (Clean your skin thoroughly.)"
+  },
+  {
+    "word": "joki",
+    "partOfSpeech": "noun",
+    "definition": "river",
+    "example": "Joki virtaa hitaasti. (The river flows slowly.)"
+  },
+  {
+    "word": "jälkimmäinen",
+    "partOfSpeech": "adjective",
+    "definition": "the latter",
+    "example": "Kumpi näistä on jälkimmäinen? (Which of these is the latter one?)"
+  },
+  {
+    "word": "keskittyä",
+    "partOfSpeech": "verb",
+    "definition": "to be concentrated",
+    "example": "Yritän keskittyä tehtävään. (I'm trying to concentrate on the task.)"
+  },
+  {
+    "word": "kesäkuu",
+    "partOfSpeech": "noun",
+    "definition": "June",
+    "example": "Kesäkuussa on usein lämmintä. (June is often warm.)"
+  },
+  {
+    "word": "kiire",
+    "partOfSpeech": "noun",
+    "definition": "hurry",
+    "example": "Minulla on kiire töihin. (I'm in a hurry to get to work.)"
+  },
+  {
+    "word": "kuu",
+    "partOfSpeech": "noun",
+    "definition": "moon",
+    "example": "Kuu on tänään täysi. (The moon is full today.)"
+  },
+  {
+    "word": "kyetä",
+    "partOfSpeech": "verb",
+    "definition": "to be able to",
+    "example": "Hän kykenee tekemään sen. (He is able to do it.)"
+  },
+  {
+    "word": "leipä",
+    "partOfSpeech": "noun",
+    "definition": "bread",
+    "example": "Tämä leipä on tuoretta. (This bread is fresh.)"
+  },
+  {
+    "word": "määrittää",
+    "partOfSpeech": "verb",
+    "definition": "to determine, to specify, to diagnose",
+    "example": "Lääkäri yrittää määrittää taudin syyt. (The doctor is trying to determine the causes of the illness.)"
+  },
+  {
+    "word": "omatunto",
+    "partOfSpeech": "noun",
+    "definition": "conscience",
+    "example": "Hänen omatuntonsa ei antanut hänelle rauhaa. (His conscience didn't give him peace.)"
+  },
+  {
+    "word": "puheenvuoro",
+    "partOfSpeech": "noun",
+    "definition": "right to speak, turn to speak, floor (as in a parliament)",
+    "example": "Minulla on lyhyt puheenvuoro. (I have a short speaking slot.)"
+  },
+  {
+    "word": "putki",
+    "partOfSpeech": "noun",
+    "definition": "pipe, duct, conduit; a barrel (of a large-caliber gun)",
+    "example": "Tämä putki kuljettaa vettä talosta pihalle. (This pipe carries water from the house to the yard.)"
+  },
+  {
+    "word": "Ranska",
+    "partOfSpeech": "noun",
+    "definition": "France",
+    "example": "Ranska on tunnettu hyvästä ruoastaan. (France is known for its good food.)"
+  },
+  {
+    "word": "sade",
+    "partOfSpeech": "noun",
+    "definition": "rain",
+    "example": "Sade kastelee maan. (The rain is watering the ground.)"
+  },
+  {
+    "word": "samanaikainen",
+    "partOfSpeech": "adjective",
+    "definition": "1. simultaneous, 2. coincidental, 3. contemporaneous",
+    "example": "Kolme tapahtumaa olivat samanaikaisia. (The three events were simultaneous.)"
+  },
+  {
+    "word": "siitä",
+    "partOfSpeech": "verb",
+    "definition": "1. to procreate, 2. to grow",
+    "example": "He aikovat siitä lapsen. (They plan to procreate from it.)"
+  },
+  {
+    "word": "sinänsä",
+    "partOfSpeech": "adverb",
+    "definition": "per se",
+    "example": "Se ei ole ongelma sinänsä. (It's not a problem per se.)"
+  },
+  {
+    "word": "täynnä",
+    "partOfSpeech": "adjective",
+    "definition": "full",
+    "example": "Pullo on täynnä vettä. (The bottle is full of water.)"
+  },
+  {
+    "word": "ulottua",
+    "partOfSpeech": "verb",
+    "definition": "1. to extend, stretch, 2. to reach, to be able to reach (intrans.)",
+    "example": "Silta ulottuu joen yli. (The bridge extends over the river.)"
+  },
+  {
+    "word": "uskonto",
+    "partOfSpeech": "noun",
+    "definition": "religion",
+    "example": "Uskonto on tärkeä osa monien ihmisten elämää. (Religion is an important part of many people's lives.)"
+  },
+  {
+    "word": "vajaa",
+    "partOfSpeech": "adjective",
+    "definition": "partial, less than",
+    "example": "Pullo on vajaa puolillaan. (The bottle is less than half full.)"
+  },
+  {
+    "word": "välitys",
+    "partOfSpeech": "noun",
+    "definition": "transmission",
+    "example": "Tiedon välitys on tärkeää. (Transmission of information is important.)"
+  },
+  {
+    "word": "Yhdistyneet Kansakunnat",
+    "partOfSpeech": "noun",
+    "definition": "United Nations",
+    "example": "Yhdistyneet Kansakunnat pyrkivät edistämään maailmanrauhaa. (The United Nations aims to promote world peace.)"
+  },
+  {
+    "word": "haalarit",
+    "partOfSpeech": "noun",
+    "definition": "overalls",
+    "example": "Hänellä on haalarit päällään. (He is wearing overalls.)"
+  },
+  {
+    "word": "heilua",
+    "partOfSpeech": "verb",
+    "definition": "to swing; to work hard",
+    "example": "Lapset heiluvat leikkipuistossa. (The children are swinging in the playground.)"
+  },
+  {
+    "word": "kansallinen",
+    "partOfSpeech": "adjective",
+    "definition": "national",
+    "example": "Kansallinen juhlapäivä on tärkeä meille. (National holidays are important to us.)"
+  },
+  {
+    "word": "kuollut",
+    "partOfSpeech": "adjective",
+    "definition": "dead",
+    "example": "Hän on ollut kuollut monta vuotta. (He has been dead for many years.)"
+  },
+  {
+    "word": "loppua",
+    "partOfSpeech": "verb",
+    "definition": "to end",
+    "example": "Kesä alkaa loppua. (Summer is starting to end.)"
+  },
+  {
+    "word": "matala",
+    "partOfSpeech": "adjective",
+    "definition": "low",
+    "example": "Vesi on matalalla rannalla. (The water is low on the shore.)"
+  },
+  {
+    "word": "n:o",
+    "partOfSpeech": "abbreviation",
+    "definition": "number (abb. street no. etc)",
+    "example": "Katuosoite on Pohjolankatu 12 B n:o 5. (The street address is Pohjolankatu 12 B, number 5.)"
+  },
+  {
+    "word": "nykyaikainen",
+    "partOfSpeech": "adjective",
+    "definition": "contemporary, modern",
+    "example": "Tämä talo on hyvin nykyaikainen. (This house is very modern.)"
+  },
+  {
+    "word": "penkki",
+    "partOfSpeech": "noun",
+    "definition": "bench",
+    "example": "Istu penkille ja lepää hetki. (Sit on the bench and rest for a while.)"
+  },
+  {
+    "word": "rikas",
+    "partOfSpeech": "adjective",
+    "definition": "rich",
+    "example": "Hän on hyvin rikas mies. (He is a very rich man.)"
+  },
+  {
+    "word": "risti",
+    "partOfSpeech": "noun",
+    "definition": "cross",
+    "example": "Ristin merkitys on monessa kulttuurissa symbolinen. (The meaning of the cross is symbolic in many cultures.)"
+  },
+  {
+    "word": "tajuta",
+    "partOfSpeech": "verb",
+    "definition": "to grasp, to get the idea",
+    "example": "Hän ei tajunnut tilanteen vakavuutta. (He didn't grasp the seriousness of the situation.)"
+  },
+  {
+    "word": "takaa",
+    "partOfSpeech": "preposition",
+    "definition": "from behind",
+    "example": "Tule takaa, niin saat nähdä paremmin. (Come from behind so you can see better.)"
+  },
+  {
+    "word": "totuus",
+    "partOfSpeech": "noun",
+    "definition": "truth",
+    "example": "Totuus tulee aina ilmi. (The truth always comes out.)"
+  },
+  {
+    "word": "vaali",
+    "partOfSpeech": "noun",
+    "definition": "election",
+    "example": "Vaaleissa valitaan uusi presidentti. (In the election, a new president is chosen.)"
+  },
+  {
+    "word": "venäläinen",
+    "partOfSpeech": "adjective",
+    "definition": "Russian",
+    "example": "Hän on venäläinen kansalainen. (He is a Russian citizen.)"
+  },
+  {
+    "word": "vero",
+    "partOfSpeech": "noun",
+    "definition": "tax",
+    "example": "Täytyy maksaa veroja joka vuosi. (Taxes must be paid every year.)"
+  },
+  {
+    "word": "harmaa",
+    "partOfSpeech": "adjective",
+    "definition": "grey",
+    "example": "Taivas on tänään harmaa. (The sky is grey today.)"
+  },
+  {
+    "word": "ilmiantaa",
+    "partOfSpeech": "verb",
+    "definition": "to report",
+    "example": "Hän ilmiantoi rikollisen viranomaisille. (He reported the criminal to the authorities.)"
+  },
+  {
+    "word": "kotimaa",
+    "partOfSpeech": "noun",
+    "definition": "home country",
+    "example": "Hän rakastaa kotimaataan syvästi. (He loves his home country deeply.)"
+  },
+  {
+    "word": "kuivua",
+    "partOfSpeech": "verb",
+    "definition": "to dry (intrans)",
+    "example": "Pyykit kuivuvat nopeasti auringossa. (The laundry dries quickly in the sun.)"
+  },
+  {
+    "word": "lisää",
+    "partOfSpeech": "adverb",
+    "definition": "more",
+    "example": "Haluatko lisää kahvia? (Do you want more coffee?)"
+  },
+  {
+    "word": "luja",
+    "partOfSpeech": "adjective",
+    "definition": "firm",
+    "example": "Pidä lujasti kiinni köydestä. (Hold onto the rope firmly.)"
+  },
+  {
+    "word": "mielellään",
+    "partOfSpeech": "adverb",
+    "definition": "with pleasure",
+    "example": "Teen sen mielelläni. (I will do it with pleasure.)"
+  },
+  {
+    "word": "myöten",
+    "partOfSpeech": "preposition",
+    "definition": "as far as",
+    "example": "Pystyn auttamaan sinua niin paljon kuin pystyn. (I can help you as far as I can.)"
+  },
+  {
+    "word": "määräraha",
+    "partOfSpeech": "noun",
+    "definition": "budget",
+    "example": "Määräraha on rajallinen tälle projektille. (The budget is limited for this project.)"
+  },
+  {
+    "word": "omistaja",
+    "partOfSpeech": "noun",
+    "definition": "owner",
+    "example": "Hän on tämän talon omistaja. (He is the owner of this house.)"
+  },
+  {
+    "word": "poikanen",
+    "partOfSpeech": "noun",
+    "definition": "baby animal (often refers to a baby bird)",
+    "example": "Poikaset odottavat ruokaa pesässä. (The baby birds are waiting for food in the nest.)"
+  },
+  {
+    "word": "poikkeus",
+    "partOfSpeech": "noun",
+    "definition": "exception",
+    "example": "Tämä on poikkeus sääntöön. (This is an exception to the rule.)"
+  },
+  {
+    "word": "politiikka",
+    "partOfSpeech": "noun",
+    "definition": "policy, politics",
+    "example": "Politiikka voi olla monimutkaista. (Politics can be complicated.)"
+  },
+  {
+    "word": "polttaa",
+    "partOfSpeech": "verb",
+    "definition": "(transitive) To burn.",
+    "example": "Tuli polttaa puuta. (The fire burns the wood.)"
+  },
+  {
+    "word": "romaani",
+    "partOfSpeech": "noun",
+    "definition": "novel",
+    "example": "Hän kirjoitti menestyneen romaanin. (He wrote a successful novel.)"
+  },
+  {
+    "word": "rukoilla",
+    "partOfSpeech": "verb",
+    "definition": "to pray",
+    "example": "Ihmiset menevät kirkkoon rukoilemaan. (People go to church to pray.)"
+  },
+  {
+    "word": "sairas",
+    "partOfSpeech": "adjective",
+    "definition": "ill",
+    "example": "Hän on sairas ja tarvitsee lepoa. (He is ill and needs rest.)"
+  },
+  {
+    "word": "turha",
+    "partOfSpeech": "adjective",
+    "definition": "useless",
+    "example": "Tämä yritys oli turha. (This attempt was useless.)"
+  },
+  {
+    "word": "tutkija",
+    "partOfSpeech": "noun",
+    "definition": "researcher, scientist",
+    "example": "Tutkija löysi uusia tietoja aiheesta. (The researcher found new information on the subject.)"
+  },
+  {
+    "word": "tyytyä",
+    "partOfSpeech": "verb",
+    "definition": "to be satisfied",
+    "example": "Hän tyytyy vähempäänkin. (He is satisfied with less.)"
+  },
+  {
+    "word": "ulkomaa",
+    "partOfSpeech": "noun",
+    "definition": "foreign country",
+    "example": "Hän matkusti usein ulkomaille työn takia. (He often traveled abroad for work.)"
+  },
+  {
+    "word": "uskaltaa",
+    "partOfSpeech": "verb",
+    "definition": "to dare",
+    "example": "Uskallatko kokeilla jotain uutta? (Do you dare to try something new?)"
+  },
+  {
+    "word": "vaihtelu",
+    "partOfSpeech": "noun",
+    "definition": "variation",
+    "example": "Vaihtelu tekee hyvää. (Variation is good for you.)"
+  },
+  {
+    "word": "vaiva",
+    "partOfSpeech": "noun",
+    "definition": "trouble, discomfort",
+    "example": "Hänellä on paljon vaivaa selkänsä kanssa. (He has a lot of trouble with his back.)"
+  },
+  {
+    "word": "valtava",
+    "partOfSpeech": "adjective",
+    "definition": "enormous",
+    "example": "Talo oli valtava. (The house was enormous.)"
+  },
+  {
+    "word": "väestö",
+    "partOfSpeech": "noun",
+    "definition": "population",
+    "example": "Kaupungin väestö kasvaa nopeasti. (The city's population is growing rapidly.)"
+  },
+  {
+    "word": "ympäri",
+    "partOfSpeech": "adverb",
+    "definition": "around",
+    "example": "Kävelen ympäri kaupunkia. (I'm walking around the city.)"
+  },
+  {
+    "word": "äsken",
+    "partOfSpeech": "adverb",
+    "definition": "a moment ago",
+    "example": "Näin hänet äsken. (I saw him a moment ago.)"
+  },
+  {
+    "word": "avioliitto",
+    "partOfSpeech": "noun",
+    "definition": "marriage",
+    "example": "He solmivat avioliiton viime vuonna. (They got married last year.)"
+  },
+  {
+    "word": "eksyä",
+    "partOfSpeech": "verb",
+    "definition": "to get lost || to stray, to wander",
+    "example": "Hän pelkää eksyvänsä metsässä. (He is afraid of getting lost in the forest.)"
+  },
+  {
+    "word": "juna",
+    "partOfSpeech": "noun",
+    "definition": "train",
+    "example": "Juna saapuu asemalle kymmenen minuutin kuluttua. (The train will arrive at the station in ten minutes.)"
+  },
+  {
+    "word": "keskenään",
+    "partOfSpeech": "adverb",
+    "definition": "between each other",
+    "example": "He keskustelevat keskenään. (They are discussing among themselves.)"
+  },
+  {
+    "word": "kiekko",
+    "partOfSpeech": "noun",
+    "definition": "disc, puck",
+    "example": "Kiekko liukuu jäällä nopeasti. (The puck slides quickly on the ice.)"
+  },
+  {
+    "word": "kuljetus",
+    "partOfSpeech": "noun",
+    "definition": "transport (n)",
+    "example": "Kuljetus saapuu asemalle viiden minuutin kuluttua. (The transport will arrive at the station in five minutes.)"
+  },
+  {
+    "word": "kulta",
+    "partOfSpeech": "noun",
+    "definition": "gold",
+    "example": "Kulta on kallisarvoinen metalli. (Gold is a precious metal.)"
+  },
+  {
+    "word": "laskelma",
+    "partOfSpeech": "noun",
+    "definition": "calculation",
+    "example": "Tarkistan vielä laskelman ennen kuin teen päätöksen. (I will double-check the calculation before making a decision.)"
+  },
+  {
+    "word": "luo",
+    "partOfSpeech": "preposition",
+    "definition": "to (someone's place)",
+    "example": "Tule luokseni kahville. (Come to my place for coffee.)"
+  },
+  {
+    "word": "miettiä",
+    "partOfSpeech": "verb",
+    "definition": "to think (about, over), to consider",
+    "example": "Hän miettii vielä päätöstä. (He is still considering the decision.)"
+  },
+  {
+    "word": "näet",
+    "partOfSpeech": "phrase",
+    "definition": "you see, you know",
+    "example": "Tämä on tärkeä asia, näet. (This is an important matter, you know.)"
+  },
+  {
+    "word": "pelko",
+    "partOfSpeech": "noun",
+    "definition": "fear",
+    "example": "Pelko estää häntä tekemästä päätöksiä. (Fear prevents him from making decisions.)"
+  },
+  {
+    "word": "pelto",
+    "partOfSpeech": "noun",
+    "definition": "field",
+    "example": "Pellolla kasvaa viljaa. (Grain is growing in the field.)"
+  },
+  {
+    "word": "piha",
+    "partOfSpeech": "noun",
+    "definition": "yard",
+    "example": "Lapset leikkivät pihalla. (The children are playing in the yard.)"
+  },
+  {
+    "word": "pääasiallinen",
+    "partOfSpeech": "adjective",
+    "definition": "main, principal",
+    "example": "Pääasiallinen syy on huono johtaminen. (The main reason is poor management.)"
+  },
+  {
+    "word": "pääministeri",
+    "partOfSpeech": "noun",
+    "definition": "prime minister",
+    "example": "Pääministeri puhui tärkeistä kysymyksistä. (The prime minister spoke about important issues.)"
+  },
+  {
+    "word": "runo",
+    "partOfSpeech": "noun",
+    "definition": "poem",
+    "example": "Hän lukee kauniin runon ääneen. (He reads a beautiful poem aloud.)"
+  },
+  {
+    "word": "sanomalehti",
+    "partOfSpeech": "noun",
+    "definition": "newspaper",
+    "example": "Luen päivittäin paikallisen sanomalehden. (I read the local newspaper daily.)"
+  },
+  {
+    "word": "sielu",
+    "partOfSpeech": "noun",
+    "definition": "soul, spirit",
+    "example": "Hän uskoo, että sielu jatkaa elämää kuoleman jälkeen. (He believes that the soul continues after death.)"
+  },
+  {
+    "word": "tilata",
+    "partOfSpeech": "verb",
+    "definition": "1. to order (to request some product or service) 2. to sign up for (to agree to purchase some good or service) 3. to subscribe to (a magazine etc.)",
+    "example": "Tilasimme ruokaa kotiin. (We ordered food for home delivery.)"
+  },
+  {
+    "word": "tosiaan",
+    "partOfSpeech": "adverb",
+    "definition": "indeed",
+    "example": "Tosiaankin, olet oikeassa. (Indeed, you are right.)"
+  },
+  {
+    "word": "tuolla",
+    "partOfSpeech": "adverb",
+    "definition": "over there (points at the place)",
+    "example": "Katsokaa, tuolla on kaunis talo. (Look, over there is a beautiful house.)"
+  },
+  {
+    "word": "turvata",
+    "partOfSpeech": "verb",
+    "definition": "to secure",
+    "example": "Hän turvaa tulevaisuutensa säästämällä. (He secures his future by saving.)"
+  },
+  {
+    "word": "työnantaja",
+    "partOfSpeech": "noun",
+    "definition": "employer",
+    "example": "Työnantaja tarjoaa hyvät työolosuhteet. (The employer provides good working conditions.)"
+  },
+  {
+    "word": "työpaikka",
+    "partOfSpeech": "noun",
+    "definition": "workplace",
+    "example": "Hän meni tänään myöhään työpaikalle. (He went to the workplace late today.)"
+  },
+  {
+    "word": "tähden",
+    "partOfSpeech": "noun",
+    "definition": "because of, for the sake of",
+    "example": "Teemme sen tulevaisuutemme tähden. (We do it for the sake of our future.)"
+  },
+  {
+    "word": "vapauttaa",
+    "partOfSpeech": "verb",
+    "definition": "to free",
+    "example": "Hänet vapautettiin syytteistä. (He was freed from the charges.)"
+  },
+  {
+    "word": "yhteistoiminta",
+    "partOfSpeech": "noun",
+    "definition": "cooperation",
+    "example": "Yhteistoiminta on tärkeää projekteissa. (Cooperation is important in projects.)"
+  },
+  {
+    "word": "yhteistyö",
+    "partOfSpeech": "noun",
+    "definition": "cooperation",
+    "example": "Yhteistyö on avain menestykseen. (Cooperation is the key to success.)"
+  },
+  {
+    "word": "arvostelu",
+    "partOfSpeech": "noun",
+    "definition": "critique, review, analysis || appraisal, evaluation, assessment",
+    "example": "Hän sai hyvän arvostelun esityksestään. (He received a good review for his performance.)"
+  },
+  {
+    "word": "edetä",
+    "partOfSpeech": "verb",
+    "definition": "to proceed || to progress",
+    "example": "Projekti etenee suunnitellusti. (The project is progressing as planned.)"
+  },
+  {
+    "word": "hallussa",
+    "partOfSpeech": "adjective",
+    "definition": "in someone's possession",
+    "example": "Hänellä on tärkeitä asiakirjoja hallussaan. (He has important documents in his possession.)"
+  },
+  {
+    "word": "hauki",
+    "partOfSpeech": "noun",
+    "definition": "pike (fish), northern trout",
+    "example": "Hauki on yleinen kala Suomen järvissä. (Pike is a common fish in the lakes of Finland.)"
+  },
+  {
+    "word": "kallio",
+    "partOfSpeech": "noun",
+    "definition": "rock, cliff, stable",
+    "example": "Kallioilla voi olla vaarallista kiipeillä. (It can be dangerous to climb on the cliffs.)"
+  },
+  {
+    "word": "kisa",
+    "partOfSpeech": "noun",
+    "definition": "race, competition",
+    "example": "Hän osallistui maratonin kisaan. (He participated in the marathon race.)"
+  },
+  {
+    "word": "leikata",
+    "partOfSpeech": "verb",
+    "definition": "to cut; to operate",
+    "example": "Leikkaan leivän kahtia. (I cut the bread in half.)"
+  },
+  {
+    "word": "maku",
+    "partOfSpeech": "noun",
+    "definition": "taste",
+    "example": "Hänellä on erikoinen maku musiikissa. (He has a unique taste in music.)"
+  },
+  {
+    "word": "muisto",
+    "partOfSpeech": "noun",
+    "definition": "memory",
+    "example": "Hänellä on hyviä muistoja lapsuudestaan. (He has good memories of his childhood.)"
+  },
+  {
+    "word": "myönteinen",
+    "partOfSpeech": "adjective",
+    "definition": "positive, favorable",
+    "example": "Sain myönteisen vastauksen hakemukseeni. (I received a positive response to my application.)"
+  },
+  {
+    "word": "naapuri",
+    "partOfSpeech": "noun",
+    "definition": "neighbour",
+    "example": "Naapurimme ovat ystävällisiä. (Our neighbors are friendly.)"
+  },
+  {
+    "word": "Norja",
+    "partOfSpeech": "noun",
+    "definition": "Norway",
+    "example": "Hän matkusti Norjaan viime kesänä. (He traveled to Norway last summer.)"
+  },
+  {
+    "word": "näyttely",
+    "partOfSpeech": "noun",
+    "definition": "show, exhibition, display",
+    "example": "Taide-näyttely avattiin tänään. (The art exhibition opened today.)"
+  },
+  {
+    "word": "oksa",
+    "partOfSpeech": "noun",
+    "definition": "branch",
+    "example": "Puun oksat huojuivat tuulessa. (The branches of the tree swayed in the wind.)"
+  },
+  {
+    "word": "paikalla",
+    "partOfSpeech": "adverb",
+    "definition": "at the place, present",
+    "example": "Hän oli paikalla tapahtuman aikana. (He was present during the event.)"
+  },
+  {
+    "word": "pitkin",
+    "partOfSpeech": "preposition",
+    "definition": "along",
+    "example": "Kävelen rantaa pitkin joka aamu. (I walk along the beach every morning.)"
+  },
+  {
+    "word": "pituinen",
+    "partOfSpeech": "adjective",
+    "definition": "long, tall",
+    "example": "Tämä pöytä on kolme metriä pitkä. (This table is three meters long.)"
+  },
+  {
+    "word": "päinvastoin",
+    "partOfSpeech": "adverb",
+    "definition": "on the contrary",
+    "example": "Hän väittää päinvastaista. (He claims the opposite.)"
+  },
+  {
+    "word": "päätellä",
+    "partOfSpeech": "verb",
+    "definition": "to draw a conclusion",
+    "example": "Voimme päätellä, että hän on syytön. (We can conclude that he is innocent.)"
+  },
+  {
+    "word": "rauhoittaa",
+    "partOfSpeech": "verb",
+    "definition": "to pacify, protect",
+    "example": "Äiti yritti rauhoittaa itkevää vauvaa. (The mother tried to calm the crying baby.)"
+  },
+  {
+    "word": "rikkoa",
+    "partOfSpeech": "verb",
+    "definition": "to break, to violate, to infringe",
+    "example": "Hän rikkoi lupauksensa. (He broke his promise.)"
+  },
+  {
+    "word": "saksalainen",
+    "partOfSpeech": "adjective",
+    "definition": "German",
+    "example": "Hän opiskelee saksalaista kirjallisuutta. (He studies German literature.)"
+  },
+  {
+    "word": "sanoma",
+    "partOfSpeech": "noun",
+    "definition": "message",
+    "example": "Sanoma saapui myöhään illalla. (The message arrived late in the evening.)"
+  },
+  {
+    "word": "tarina",
+    "partOfSpeech": "noun",
+    "definition": "story",
+    "example": "Kuulin mielenkiintoisen tarinan vanhasta talosta. (I heard an interesting story about an old house.)"
+  },
+  {
+    "word": "tekniikka",
+    "partOfSpeech": "noun",
+    "definition": "technology",
+    "example": "Tämä yritys panostaa uuteen tekniikkaan. (This company is investing in new technology.)"
+  },
+  {
+    "word": "tumma",
+    "partOfSpeech": "adjective",
+    "definition": "dark (haired)",
+    "example": "Hänellä on tummat hiukset. (He has dark hair.)"
+  },
+  {
+    "word": "tuollainen",
+    "partOfSpeech": "pronoun",
+    "definition": "that kind of, like that",
+    "example": "Tuollainen asenne ei ole hyväksyttävää. (That kind of attitude is not acceptable.)"
+  },
+  {
+    "word": "valaista",
+    "partOfSpeech": "verb",
+    "definition": "to enlighten",
+    "example": "Hän valaisi tilannetta selkeästi. (He clarified the situation clearly.)"
+  },
+  {
+    "word": "väki",
+    "partOfSpeech": "noun",
+    "definition": "people",
+    "example": "Tämä väki on erittäin ystävällistä. (These people are very friendly.)"
+  },
+  {
+    "word": "yläpuoli",
+    "partOfSpeech": "noun",
+    "definition": "upper side of an object",
+    "example": "Aurinko paistaa talon yläpuolelle. (The sun is shining on the upper side of the house.)"
+  },
+  {
+    "word": "celsiusaste",
+    "partOfSpeech": "noun",
+    "definition": "degree Celsius, centigrade",
+    "example": "Huoneen lämpötila on 22 celsiusastetta. (The room temperature is 22 degrees Celsius.)"
+  },
+  {
+    "word": "harrastaa",
+    "partOfSpeech": "verb",
+    "definition": "to be interested in, to have as a hobby",
+    "example": "Hän harrastaa uintia ja lenkkeilyä. (He is interested in swimming and jogging.)"
+  },
+  {
+    "word": "jako",
+    "partOfSpeech": "noun",
+    "definition": "distribution, division",
+    "example": "Tuotteiden jako oli tasapuolinen. (The distribution of the products was fair.)"
+  },
+  {
+    "word": "kilpi",
+    "partOfSpeech": "noun",
+    "definition": "shield, number plate",
+    "example": "Auton kilpi oli likainen. (The car's number plate was dirty.)"
+  },
+  {
+    "word": "kohden",
+    "partOfSpeech": "postposition",
+    "definition": "towards, for",
+    "example": "Hän lähti kävelemään rannan suuntaan. (He started walking towards the beach.)"
+  },
+  {
+    "word": "kuvitella",
+    "partOfSpeech": "verb",
+    "definition": "to imagine",
+    "example": "Hän kuvittelee matkustavansa ulkomaille. (He imagines traveling abroad.)"
+  },
+  {
+    "word": "kyse",
+    "partOfSpeech": "noun",
+    "definition": "matter, about",
+    "example": "Tässä on kyse periaatteista. (This is about principles.)"
+  },
+  {
+    "word": "kärki",
+    "partOfSpeech": "noun",
+    "definition": "point, tip",
+    "example": "Terävä kärki tekee työstä helpompaa. (The sharp tip makes the work easier.)"
+  },
+  {
+    "word": "menestys",
+    "partOfSpeech": "noun",
+    "definition": "success",
+    "example": "He saavuttivat suuren menestyksen. (They achieved great success.)"
+  },
+  {
+    "word": "nopeus",
+    "partOfSpeech": "noun",
+    "definition": "speed, velocity",
+    "example": "Auton nopeus oli yli 100 kilometriä tunnissa. (The speed of the car was over 100 kilometers per hour.)"
+  },
+  {
+    "word": "ohut",
+    "partOfSpeech": "adjective",
+    "definition": "thin",
+    "example": "Kangas on ohut ja kevyt. (The fabric is thin and light.)"
+  },
+  {
+    "word": "paahde",
+    "partOfSpeech": "noun",
+    "definition": "heat",
+    "example": "Helle ja paahde ovat tukalia. (Heat and scorching sun are oppressive.)"
+  },
+  {
+    "word": "pallo",
+    "partOfSpeech": "noun",
+    "definition": "ball",
+    "example": "Lapset leikkivät palloilla puistossa. (The children are playing with balls in the park.)"
+  },
+  {
+    "word": "piirtää",
+    "partOfSpeech": "verb",
+    "definition": "to draw, to sketch",
+    "example": "Hän osaa piirtää upeita maisemia. (He can draw beautiful landscapes.)"
+  },
+  {
+    "word": "pimeys",
+    "partOfSpeech": "noun",
+    "definition": "darkness",
+    "example": "Talven pimeys voi olla masentavaa. (The darkness of winter can be depressing.)"
+  },
+  {
+    "word": "pohjoismaa",
+    "partOfSpeech": "noun",
+    "definition": "Nordic country",
+    "example": "Ruotsi on yksi Pohjoismaista. (Sweden is one of the Nordic countries.)"
+  },
+  {
+    "word": "poistua",
+    "partOfSpeech": "verb",
+    "definition": "to leave (a place)",
+    "example": "Hän päätti poistua juhlista aikaisin. (He decided to leave the party early.)"
+  },
+  {
+    "word": "rukous",
+    "partOfSpeech": "noun",
+    "definition": "1. prayer (act of praying), 2. rogation (deeply serious and somber prayer)",
+    "example": "Hän lähetti rukouksen sairaalle ystävälleen. (He sent a prayer to his sick friend.)"
+  },
+  {
+    "word": "runko",
+    "partOfSpeech": "noun",
+    "definition": "trunk (of a tree)",
+    "example": "Rungossa oli syviä halkeamia. (The trunk had deep cracks.)"
+  },
+  {
+    "word": "selkä",
+    "partOfSpeech": "noun",
+    "definition": "back (anatomy)",
+    "example": "Selkäkipu voi johtua huonosta ryhdistä. (Back pain can be caused by poor posture.)"
+  },
+  {
+    "word": "taistella",
+    "partOfSpeech": "verb",
+    "definition": "to fight",
+    "example": "Heidän on taisteltava oikeuksiensa puolesta. (They have to fight for their rights.)"
+  },
+  {
+    "word": "tuomio",
+    "partOfSpeech": "noun",
+    "definition": "sentence, judgement",
+    "example": "Tuomio annettiin tänään oikeudessa. (The sentence was given in court today.)"
+  },
+  {
+    "word": "uhata",
+    "partOfSpeech": "verb",
+    "definition": "to threaten",
+    "example": "Hän ei pelännyt uhata vastustajiaan. (He was not afraid to threaten his opponents.)"
+  },
+  {
+    "word": "varassa",
+    "partOfSpeech": "adjective",
+    "definition": "dependent on (sth)",
+    "example": "Hän oli täysin muiden avun varassa. (He was completely dependent on the help of others.)"
+  },
+  {
+    "word": "varjo",
+    "partOfSpeech": "noun",
+    "definition": "shadow, umbrella",
+    "example": "Aurinko loi puun varjon maahan. (The sun cast a shadow of the tree on the ground.)"
+  },
+  {
+    "word": "vasten",
+    "partOfSpeech": "preposition",
+    "definition": "against; preceeding",
+    "example": "Hän nojasi seinää vasten. (He leaned against the wall.)"
+  },
+  {
+    "word": "ase",
+    "partOfSpeech": "noun",
+    "definition": "weapon, gun || tool, instrument",
+    "example": "Poliisit olivat varustautuneet aseilla. (The police were armed with weapons.)"
+  },
+  {
+    "word": "heinäkuu",
+    "partOfSpeech": "noun",
+    "definition": "July",
+    "example": "Heinäkuu on yleensä lämmin kuukausi. (July is usually a warm month.)"
+  },
+  {
+    "word": "irrottaa",
+    "partOfSpeech": "verb",
+    "definition": "to detach, to free, to unfasten || to release",
+    "example": "Hän irrotti köyden ja pääsi vapaaksi. (He detached the rope and became free.)"
+  },
+  {
+    "word": "kapea",
+    "partOfSpeech": "adjective",
+    "definition": "narrow",
+    "example": "Polku oli niin kapea, ettei auto mahtunut siihen. (The path was so narrow that the car couldn't fit on it.)"
+  },
+  {
+    "word": "katketa",
+    "partOfSpeech": "verb",
+    "definition": "to cut, to break (intrans)",
+    "example": "Oksa katkesi voimakkaan tuulen takia. (The branch broke because of the strong wind.)"
+  },
+  {
+    "word": "korottaa",
+    "partOfSpeech": "verb",
+    "definition": "to raise",
+    "example": "Hän päätti korottaa äänensä, jotta hänet kuultaisiin. (He decided to raise his voice to be heard.)"
+  },
+  {
+    "word": "kulutus",
+    "partOfSpeech": "noun",
+    "definition": "consumption",
+    "example": "Bensiinin kulutus on laskenut viime vuosina. (Fuel consumption has decreased in recent years.)"
+  },
+  {
+    "word": "lahti",
+    "partOfSpeech": "noun",
+    "definition": "bay, gulf",
+    "example": "Lahti oli täynnä purjeveneitä. (The bay was full of sailboats.)"
+  },
+  {
+    "word": "leikki",
+    "partOfSpeech": "noun",
+    "definition": "play (children's activity)",
+    "example": "Lapset nauttivat ulkoleikeistä. (The children enjoy outdoor play.)"
+  },
+  {
+    "word": "lopulta",
+    "partOfSpeech": "adverb",
+    "definition": "eventually",
+    "example": "Hän lopulta tajusi virheensä. (He eventually realized his mistake.)"
+  },
+  {
+    "word": "lähestyä",
+    "partOfSpeech": "verb",
+    "definition": "to approach",
+    "example": "He päättivät lähestyä tilannetta varovaisesti. (They decided to approach the situation cautiously.)"
+  },
+  {
+    "word": "massa",
+    "partOfSpeech": "noun",
+    "definition": "mass",
+    "example": "Lääkäri arvioi kasvaimen massan. (The doctor assessed the mass of the tumor.)"
+  },
+  {
+    "word": "mökki",
+    "partOfSpeech": "noun",
+    "definition": "cottage",
+    "example": "He viettivät kesälomaa mökillä. (They spent their summer vacation at the cottage.)"
+  },
+  {
+    "word": "pakottaa",
+    "partOfSpeech": "verb",
+    "definition": "to force, to compel",
+    "example": "Tilanne pakotti heidät tekemään nopean päätöksen. (The situation forced them to make a quick decision.)"
+  },
+  {
+    "word": "parhaillaan",
+    "partOfSpeech": "adverb",
+    "definition": "currently",
+    "example": "Hän on parhaillaan ulkomailla opiskelijavaihdossa. (He is currently studying abroad on an exchange program.)"
+  },
+  {
+    "word": "parissa",
+    "partOfSpeech": "postposition",
+    "definition": "among",
+    "example": "Hän tunsi olonsa mukavaksi uusien ystäviensä parissa. (He felt comfortable among his new friends.)"
+  },
+  {
+    "word": "puhdistaa",
+    "partOfSpeech": "verb",
+    "definition": "to clean",
+    "example": "Hän päätti puhdistaa koko huoneen. (He decided to clean the whole room.)"
+  },
+  {
+    "word": "sisältö",
+    "partOfSpeech": "noun",
+    "definition": "contents",
+    "example": "Pakkauksen sisältö oli vahingoittunut. (The contents of the package were damaged)"
+  },
+  {
+    "word": "suunnittelu",
+    "partOfSpeech": "noun",
+    "definition": "design, planning",
+    "example": "Suunnittelu on tärkeää onnistuneen projektin kannalta. (Planning is crucial for the success of the project.)"
+  },
+  {
+    "word": "Tanska",
+    "partOfSpeech": "noun",
+    "definition": "Denmark",
+    "example": "Hän matkusti Tanskaan kesälomallaan. (He traveled to Denmark on his summer vacation.)"
+  },
+  {
+    "word": "tarkastaa",
+    "partOfSpeech": "verb",
+    "definition": "to check, to inspect",
+    "example": "Insinööri tarkasti rakenteet ennen hyväksyntää. (The engineer inspected the structures before approval.)"
+  },
+  {
+    "word": "taulu",
+    "partOfSpeech": "noun",
+    "definition": "painting",
+    "example": "Museossa oli upeita vanhoja tauluja. (The museum had some magnificent old paintings.)"
+  },
+  {
+    "word": "teräs",
+    "partOfSpeech": "noun",
+    "definition": "steel",
+    "example": "Teräksen hinta on noussut viime aikoina. (The price of steel has risen recently.)"
+  },
+  {
+    "word": "tyydyttää",
+    "partOfSpeech": "verb",
+    "definition": "to satisfy",
+    "example": "Ravintola yritti tyydyttää kaikkien asiakkaiden tarpeet. (The restaurant tried to satisfy the needs of all the customers.)"
+  },
+  {
+    "word": "vaihtua",
+    "partOfSpeech": "verb",
+    "definition": "to be replaced",
+    "example": "Kesä vaihtuu nopeasti syksyyn täällä. (Summer is quickly replaced by autumn here.)"
+  },
+  {
+    "word": "vastustaa",
+    "partOfSpeech": "verb",
+    "definition": "to fight, to be opposed to",
+    "example": "Monet ihmiset vastustavat uusia lakeja. (Many people are opposed to new laws.)"
+  },
+  {
+    "word": "vatsa",
+    "partOfSpeech": "noun",
+    "definition": "stomach",
+    "example": "Hänellä oli kipuja vatsassa eilisillan jälkeen. (He had stomach pains after last night.)"
+  },
+  {
+    "word": "avautua",
+    "partOfSpeech": "verb",
+    "definition": "to open up || to come undone",
+    "example": "Ovi avautui hitaasti naristen. (The door opened slowly, creaking.)"
+  },
+  {
+    "word": "eläke",
+    "partOfSpeech": "noun",
+    "definition": "pension, retirement pay",
+    "example": "Hän suunnittelee eläkkeelle jäämistä ensi vuonna. (He is planning to retire next year.)"
+  },
+  {
+    "word": "englantilainen",
+    "partOfSpeech": "adjective",
+    "definition": "English (adj or person)",
+    "example": "Hän on englantilainen opettaja. (He is an English teacher.)"
+  },
+  {
+    "word": "enintään",
+    "partOfSpeech": "adverb",
+    "definition": "at most, maximum, not more than",
+    "example": "Hän voi olla täällä enintään tunnin. (He can be here for at most an hour.)"
+  },
+  {
+    "word": "evankeliumi",
+    "partOfSpeech": "noun",
+    "definition": "Gospel",
+    "example": "Hän lukee evankeliumia päivittäin. (He reads the Gospel every day.)"
+  },
+  {
+    "word": "helpottaa",
+    "partOfSpeech": "verb",
+    "definition": "to ease",
+    "example": "Lääke auttoi helpottamaan kipua. (The medicine helped to ease the pain.)"
+  },
+  {
+    "word": "kaataa",
+    "partOfSpeech": "verb",
+    "definition": "to pour",
+    "example": "Hän kaatoi kahvia kuppeihin vieraille. (He poured coffee into cups for the guests.)"
+  },
+  {
+    "word": "kehottaa",
+    "partOfSpeech": "verb",
+    "definition": "to recommend, to urge, to admonish",
+    "example": "Lääkäri kehotti häntä lopettamaan tupakoinnin. (The doctor urged him to quit smoking.)"
+  },
+  {
+    "word": "kertomus",
+    "partOfSpeech": "noun",
+    "definition": "story",
+    "example": "Kuulin mielenkiintoisen kertomuksen eilisestä tapahtumasta. (I heard an interesting story about yesterday's event.)"
+  },
+  {
+    "word": "kohottaa",
+    "partOfSpeech": "verb",
+    "definition": "to elevate, to uplift, to hold up",
+    "example": "Hän kohotti kätensä ylös kysyäkseen kysymyksen. (He raised his hand to ask a question.)"
+  },
+  {
+    "word": "kohtalo",
+    "partOfSpeech": "noun",
+    "definition": "destiny",
+    "example": "Uskon vahvasti kohtaloon. (I strongly believe in destiny.)"
+  },
+  {
+    "word": "koulutus",
+    "partOfSpeech": "noun",
+    "definition": "education",
+    "example": "Hyvä koulutus on tärkeää menestyksen kannalta. (Good education is crucial for success.)"
+  },
+  {
+    "word": "laittaa",
+    "partOfSpeech": "verb",
+    "definition": "to put, to set, to place",
+    "example": "Hän laittoi kirjan pöydälle. (He put the book on the table.)"
+  },
+  {
+    "word": "länsi",
+    "partOfSpeech": "noun",
+    "definition": "west",
+    "example": "Auringonlasku oli kauneimmillaan länsitaivaalla. (The sunset was most beautiful in the western sky.)"
+  },
+  {
+    "word": "maisema",
+    "partOfSpeech": "noun",
+    "definition": "landscape",
+    "example": "Suomen maisemat ovat upeita kesällä. (The landscapes of Finland are beautiful in the summer.)"
+  },
+  {
+    "word": "menetellä",
+    "partOfSpeech": "verb",
+    "definition": "1. (intransitive) To do, act, proceed, 2. To do, be good enough.",
+    "example": "Hän ei tiennyt, miten menetellä tilanteessa. (He didn't know how to act in the situation.)"
+  },
+  {
+    "word": "neste",
+    "partOfSpeech": "noun",
+    "definition": "liquid",
+    "example": "Varmista, ettei neste vuoda ulos pullosta. (Make sure the liquid doesn't spill out of the bottle.)"
+  },
+  {
+    "word": "nolla",
+    "partOfSpeech": "noun",
+    "definition": "zero",
+    "example": "Hänen pisteensä laskivat lähes nollaan. (His points decreased to nearly zero.)"
+  },
+  {
+    "word": "nykyaika",
+    "partOfSpeech": "noun",
+    "definition": "modern era",
+    "example": "Nykyajan teknologia helpottaa monia päivittäisiä tehtäviä. (Modern technology facilitates many daily tasks.)"
+  },
+  {
+    "word": "opiskelu",
+    "partOfSpeech": "noun",
+    "definition": "study",
+    "example": "Opiskelu voi olla haastavaa, mutta se on palkitsevaa. (Studying can be challenging, but it is rewarding.)"
+  },
+  {
+    "word": "palkinto",
+    "partOfSpeech": "noun",
+    "definition": "prize, award",
+    "example": "Hän voitti ensimmäisen palkinnon kilpailussa. (He won the first prize in the competition.)"
+  },
+  {
+    "word": "perusteellinen",
+    "partOfSpeech": "adjective",
+    "definition": "thorough",
+    "example": "Perusteellinen suunnittelu on avain onnistuneeseen projektiin. (Thorough planning is the key to a successful project.)"
+  },
+  {
+    "word": "sauna",
+    "partOfSpeech": "noun",
+    "definition": "sauna",
+    "example": "Suomalaiset nauttivat usein saunomisesta. (Finns often enjoy going to the sauna.)"
+  },
+  {
+    "word": "silta",
+    "partOfSpeech": "noun",
+    "definition": "bridge",
+    "example": "Kaupungissa on vanhoja kauniita siltoja. (The city has old, beautiful bridges.)"
+  },
+  {
+    "word": "summa",
+    "partOfSpeech": "noun",
+    "definition": "sum, amount",
+    "example": "Hän maksoi suuren summan rahaa uudesta autosta. (He paid a large sum of money for the new car.)"
+  },
+  {
+    "word": "teatteri",
+    "partOfSpeech": "noun",
+    "definition": "theater",
+    "example": "Hän rakastaa käydä katsomassa näytelmiä teatterissa. (He loves to go and watch plays at the theater.)"
+  },
+  {
+    "word": "toki",
+    "partOfSpeech": "adverb",
+    "definition": "of course",
+    "example": "Toki, voit tulla mukaan. (Of course, you can come along.)"
+  },
+  {
+    "word": "tyyppi",
+    "partOfSpeech": "noun",
+    "definition": "type",
+    "example": "Tämä on uusi tyypin auto, joka on erittäin suosittu. (This is a new type of car that is very popular.)"
+  },
+  {
+    "word": "vienti",
+    "partOfSpeech": "noun",
+    "definition": "export",
+    "example": "Maan vienti on kasvanut viime vuosina. (The country's exports have grown in recent years.)"
+  },
+  {
+    "word": "väite",
+    "partOfSpeech": "noun",
+    "definition": "proposition, claim",
+    "example": "Hänen väitteensä herättivät kiinnostusta tutkijoiden keskuudessa. (His claims sparked interest among researchers.)"
+  },
+  {
+    "word": "äkkiä",
+    "partOfSpeech": "adverb",
+    "definition": "suddenly",
+    "example": "Hän tuli äkkiä huoneeseen, jolloin kaikki vaikenivat. (He suddenly entered the room, causing everyone to fall silent.)"
+  },
+  {
+    "word": "alus",
+    "partOfSpeech": "noun",
+    "definition": "boat, vessel, ship, craft || base, bottom",
+    "example": "Suuri alus lipui hitaasti satamaan. (The large vessel slowly glided into the harbor.)"
+  },
+  {
+    "word": "ansaita",
+    "partOfSpeech": "verb",
+    "definition": "to earn, to make, to win, to gain || to deserve, to be entitled",
+    "example": "Hän ansaitsi paljon rahaa uudella liikeideallaan. (He earned a lot of money with his new business idea.)"
+  },
+  {
+    "word": "etelä",
+    "partOfSpeech": "noun",
+    "definition": "south",
+    "example": "Etelässä on yleensä lämpimämpää kuin pohjoisessa. (It is usually warmer in the south than in the north.)"
+  },
+  {
+    "word": "hirvi",
+    "partOfSpeech": "noun",
+    "definition": "moose",
+    "example": "Hän näki hirven metsässä patikoidessaan. (He saw a moose in the forest while hiking.)"
+  },
+  {
+    "word": "inhimillinen",
+    "partOfSpeech": "adjective",
+    "definition": "humane, compassionate, considerate",
+    "example": "Hänen inhimillinen toimintansa auttoi monia ihmisiä. (His compassionate actions helped many people.)"
+  },
+  {
+    "word": "jakso",
+    "partOfSpeech": "noun",
+    "definition": "period, section || phase, stage",
+    "example": "Kolmas jakso kurssista keskittyy edistyneempiin aiheisiin. (The third section of the course focuses on more advanced topics.)"
+  },
+  {
+    "word": "järjestely",
+    "partOfSpeech": "noun",
+    "definition": "arrangement",
+    "example": "Hänen häät olivat täydellinen järjestely kaikin puolin. (His wedding was a perfect arrangement in every way.)"
+  },
+  {
+    "word": "keskinäinen",
+    "partOfSpeech": "adjective",
+    "definition": "mutual",
+    "example": "Heidän keskinäinen ystävyytensä oli kestänyt vuosia. (Their mutual friendship had lasted for years.)"
+  },
+  {
+    "word": "kohta",
+    "partOfSpeech": "adverb",
+    "definition": "soon",
+    "example": "Hän saapuu kohta, joten odottele hetki. (He'll be here soon, so wait a moment.)"
+  },
+  {
+    "word": "kunnioittaa",
+    "partOfSpeech": "verb",
+    "definition": "to honor, to revere, to respect",
+    "example": "Hän kunnioittaa vanhempiaan suuresti. (He greatly respects his parents.)"
+  },
+  {
+    "word": "Kuopio",
+    "partOfSpeech": "noun",
+    "definition": "Kuopio",
+    "example": "Kuopio on kaunis kaupunki Suomessa. (Kuopio is a beautiful city in Finland.)"
+  },
+  {
+    "word": "kurssi",
+    "partOfSpeech": "noun",
+    "definition": "course",
+    "example": "Hän suoritti englannin kurssin viime vuonna. (He completed the English course last year.)"
+  },
+  {
+    "word": "loma",
+    "partOfSpeech": "noun",
+    "definition": "holiday, vacation; gap",
+    "example": "Hän suunnittelee lomaa Espanjassa. (He is planning a vacation in Spain.)"
+  },
+  {
+    "word": "maalata",
+    "partOfSpeech": "verb",
+    "definition": "to paint",
+    "example": "Hän maalasi talon uudelleen viime kesänä. (He repainted the house last summer.)"
+  },
+  {
+    "word": "merkitsevä",
+    "partOfSpeech": "adjective",
+    "definition": "significant",
+    "example": "Tämä tutkimus on merkitsevä uusien löydösten kannalta. (This research is significant in terms of new findings.)"
+  },
+  {
+    "word": "mestari",
+    "partOfSpeech": "noun",
+    "definition": "master",
+    "example": "Hän on todellinen taidemaalari ja mestari omalla alallaan. (He is a true artist and master in his field.)"
+  },
+  {
+    "word": "mietintö",
+    "partOfSpeech": "noun",
+    "definition": "report",
+    "example": "Tämä mietintö sisältää tärkeitä suosituksia tulevaisuuden varalle. (This report contains important recommendations for the future.)"
+  },
+  {
+    "word": "ministeriö",
+    "partOfSpeech": "noun",
+    "definition": "ministry",
+    "example": "Hän työskentelee ulkoministeriössä. (He works in the Ministry of Foreign Affairs.)"
+  },
+  {
+    "word": "mittaus",
+    "partOfSpeech": "noun",
+    "definition": "measurement",
+    "example": "Tarkka mittaus on tärkeää rakennusprojektin onnistumisen kannalta. (Accurate measurement is crucial for the success of the construction project.)"
+  },
+  {
+    "word": "ostaja",
+    "partOfSpeech": "noun",
+    "definition": "buyer",
+    "example": "Ostaja oli tyytyväinen uuteen kotiinsa. (The buyer was satisfied with their new home.)"
+  },
+  {
+    "word": "pehmeä",
+    "partOfSpeech": "adjective",
+    "definition": "soft",
+    "example": "Hän tykkää pehmeistä tyynyistä. (He likes soft pillows.)"
+  },
+  {
+    "word": "penni",
+    "partOfSpeech": "noun",
+    "definition": "Penny",
+    "example": "Hän löysi kadulta kullanvärisen pennin. (He found a golden-colored penny on the street.)"
+  },
+  {
+    "word": "pesä",
+    "partOfSpeech": "noun",
+    "definition": "nest",
+    "example": "Lintu rakensi pesän puun oksalle. (The bird built a nest on the tree branch.)"
+  },
+  {
+    "word": "pitäjä",
+    "partOfSpeech": "noun",
+    "definition": "rural municipality, parish",
+    "example": "Hän on kotoisin pienestä pitäjästä Pohjois-Suomesta. (He comes from a small rural municipality in northern Finland.)"
+  },
+  {
+    "word": "polvi",
+    "partOfSpeech": "noun",
+    "definition": "knee",
+    "example": "Hän putosi ja satutti polvensa. (He fell and hurt his knee.)"
+  },
+  {
+    "word": "pullo",
+    "partOfSpeech": "noun",
+    "definition": "bottle",
+    "example": "Hän otti pullon vettä mukaan pitkälle kävelylle. (He took a bottle of water for the long walk.)"
+  },
+  {
+    "word": "rehtori",
+    "partOfSpeech": "noun",
+    "definition": "principal, rector",
+    "example": "Rehtori puhui opiskelijoille tulevasta lukuvuodesta. (The principal talked to the students about the upcoming school year.)"
+  },
+  {
+    "word": "sangen",
+    "partOfSpeech": "adverb",
+    "definition": "very",
+    "example": "Hän oli sangen vaikuttunut näkemästään. (He was very impressed with what he saw.)"
+  },
+  {
+    "word": "soida",
+    "partOfSpeech": "verb",
+    "definition": "to sound",
+    "example": "Kello alkoi soida, joten tiesimme, että oli aika lähteä. (The bell started ringing, so we knew it was time to leave.)"
+  },
+  {
+    "word": "suuresti",
+    "partOfSpeech": "adverb",
+    "definition": "greatly",
+    "example": "Hän arvosti suuresti ystäviensä tukea vaikeina aikoina. (He greatly appreciated the support of his friends during difficult times.)"
+  },
+  {
+    "word": "tarkastelu",
+    "partOfSpeech": "noun",
+    "definition": "inspection",
+    "example": "Laaja tarkastelu paljasti useita ongelmia yrityksen toiminnassa. (A thorough inspection revealed several issues in the company's operations.)"
+  },
+  {
+    "word": "tarkistaa",
+    "partOfSpeech": "verb",
+    "definition": "to check",
+    "example": "Muista tarkistaa, että kaikki ovat turvassa ennen lähtöä. (Remember to check that everyone is safe before leaving.)"
+  },
+  {
+    "word": "tiede",
+    "partOfSpeech": "noun",
+    "definition": "science",
+    "example": "Tiede on aina kiinnostanut häntä lapsuudesta asti. (Science has always interested him since childhood.)"
+  },
+  {
+    "word": "tiivis",
+    "partOfSpeech": "adjective",
+    "definition": "tight, dense",
+    "example": "Tiivis yhteistyö tiimin jäsenten välillä oli avain menestykseen. (Tight collaboration among team members was the key to success.)"
+  },
+  {
+    "word": "todistus",
+    "partOfSpeech": "noun",
+    "definition": "testimony, certificate",
+    "example": "Hän sai ansaitsemansa todistuksen tunnustuksena ahkerasta työstään. (He received the certificate he deserved as recognition for his hard work.)"
+  },
+  {
+    "word": "toimisto",
+    "partOfSpeech": "noun",
+    "definition": "office, bureau",
+    "example": "Toimistossa oli paljon työntekijöitä, jotka keskittyivät työtehtäviinsä. (The office had many employees focusing on their tasks.)"
+  },
+  {
+    "word": "toteutua",
+    "partOfSpeech": "verb",
+    "definition": "to come true",
+    "example": "Hänen unelmansa toteutui vihdoin pitkän odotuksen jälkeen. (His dream finally came true after a long wait.)"
+  },
+  {
+    "word": "toukokuu",
+    "partOfSpeech": "noun",
+    "definition": "May (month)",
+    "example": "Toukokuussa Suomessa on yleensä jo lämmintä. (In May, Finland is usually already warm.)"
+  },
+  {
+    "word": "tuore",
+    "partOfSpeech": "adjective",
+    "definition": "fresh",
+    "example": "Hän nautti tuoreista marjoista aamiaiseksi. (He enjoyed fresh berries for breakfast.)"
+  },
+  {
+    "word": "täten",
+    "partOfSpeech": "adverb",
+    "definition": "thus",
+    "example": "Täten päätämme tämän kokouksen ja kiitämme kaikkia osallistujia. (Thus, we conclude this meeting and thank all the participants.)"
+  },
+  {
+    "word": "vapautua",
+    "partOfSpeech": "verb",
+    "definition": "to be freed",
+    "example": "Hän tunsi helpotusta vapautuessaan vaikeasta tilanteesta. (He felt relief when he was freed from the difficult situation.)"
+  },
+  {
+    "word": "vesistö",
+    "partOfSpeech": "noun",
+    "definition": "drainage system",
+    "example": "Suomessa on monia kauniita vesistöjä, kuten järviä ja jokia. (Finland has many beautiful waterways, such as lakes and rivers.)"
+  },
+  {
+    "word": "vaara",
+    "partOfSpeech": "noun",
+    "definition": "danger",
+    "example": "Hän varoitti lapsia leikkimästä lähellä vaarallista aluetta. (He warned the children not to play near the dangerous area.)"
+  },
+  {
+    "word": "ääressä",
+    "partOfSpeech": "adverb",
+    "definition": "at, by",
+    "example": "Hän istui järven ääressä ja nautti rauhallisesta maisemasta. (He sat by the lake and enjoyed the peaceful scenery.)"
+  },
+  {
+    "word": "ajattelu",
+    "partOfSpeech": "noun",
+    "definition": "thought, thinking, cogitation, reflection",
+    "example": "Syvällinen ajattelu auttaa ratkaisemaan monimutkaisia ongelmia. (Deep thinking helps solve complex problems.)"
+  },
+  {
+    "word": "aktiivinen",
+    "partOfSpeech": "adjective",
+    "definition": "active",
+    "example": "Hän on erittäin aktiivinen ja osallistuu moniin eri harrastuksiin. (He is very active and participates in many different hobbies.)"
+  },
+  {
+    "word": "ehto",
+    "partOfSpeech": "noun",
+    "definition": "condition, provision, stipulation",
+    "example": "Tämä sopimus sisältää useita tärkeitä ehtoja, jotka on täytettävä. (This agreement contains several important conditions that must be met.)"
+  },
+  {
+    "word": "elokuu",
+    "partOfSpeech": "noun",
+    "definition": "August",
+    "example": "Elokuussa päivät alkavat lyhentyä, kun syksy lähestyy. (In August, the days begin to shorten as autumn approaches.)"
+  },
+  {
+    "word": "harrastus",
+    "partOfSpeech": "noun",
+    "definition": "hobby",
+    "example": "Hänen harrastuksensa ovat monipuolisia ja vaihtelevat liikunnasta käsityöhön. (His hobbies are diverse and range from sports to handicrafts.)"
+  },
+  {
+    "word": "historiallinen",
+    "partOfSpeech": "adjective",
+    "definition": "historical",
+    "example": "Tämä rakennus on historiallinen monumentti alueen historiassa. (This building is a historical monument in the region's history.)"
+  },
+  {
+    "word": "irti",
+    "partOfSpeech": "adjective",
+    "definition": "unfastened, loose, off",
+    "example": "Hänen kengännauhansa olivat auki, joten hän pysähtyi sitomaan ne kiinni. (His shoelaces were untied, so he stopped to tie them.)"
+  },
+  {
+    "word": "Israel",
+    "partOfSpeech": "noun",
+    "definition": "Israel",
+    "example": "Hän matkusti Israelin historiaa ja kulttuuria tutkiakseen. (He traveled to study the history and culture of Israel.)"
+  },
+  {
+    "word": "joulukuu",
+    "partOfSpeech": "noun",
+    "definition": "December",
+    "example": "Joulukuu on usein talvisin kylmin kuukausi. (December is often the coldest month in winter.)"
+  },
+  {
+    "word": "kemiallinen",
+    "partOfSpeech": "adjective",
+    "definition": "chemical",
+    "example": "Tämä kemiallinen aine on vaarallista, joten käytä suojavarusteita. (This chemical substance is dangerous, so use protective equipment.)"
+  },
+  {
+    "word": "keskus",
+    "partOfSpeech": "noun",
+    "definition": "centre",
+    "example": "Kaupungin keskus on vilkas ja täynnä elämää. (The city center is lively and bustling with activity.)"
+  },
+  {
+    "word": "Kiina",
+    "partOfSpeech": "noun",
+    "definition": "China",
+    "example": "Kiina on yksi maailman suurimmista ja väkirikkaimmista maista. (China is one of the world's largest and most populous countries.)"
+  },
+  {
+    "word": "kirjallinen",
+    "partOfSpeech": "adjective",
+    "definition": "written",
+    "example": "Sopimus on kirjallinen ja sen allekirjoittavat kaikki osapuolet. (The contract is written and signed by all parties involved.)"
+  },
+  {
+    "word": "köyhä",
+    "partOfSpeech": "adjective",
+    "definition": "poor / needy",
+    "example": "Hän auttaa mielellään köyhiä ja tarvitsevia perheitä. (He is happy to help poor and needy families.)"
+  },
+  {
+    "word": "leveä",
+    "partOfSpeech": "adjective",
+    "definition": "wide",
+    "example": "Tie oli leveä ja helppo ajaa, joten matka sujui nopeasti. (The road was wide and easy to drive on, so the journey went quickly.)"
+  },
+  {
+    "word": "lokakuu",
+    "partOfSpeech": "noun",
+    "definition": "October",
+    "example": "Lokakuu on usein syksyn sateisin kuukausi Suomessa. (October is often the rainiest month of autumn in Finland.)"
+  },
+  {
+    "word": "maata",
+    "partOfSpeech": "verb",
+    "definition": "to lie (down)",
+    "example": "Hän halusi vain maata pitkän päivän jälkeen. (He just wanted to lie down after a long day.)"
+  },
+  {
+    "word": "ollenkaan",
+    "partOfSpeech": "adverb",
+    "definition": "at all",
+    "example": "Hän ei ollut ollenkaan tyytyväinen tuloksiin. (He wasn't satisfied with the results at all.)"
+  },
+  {
+    "word": "paine",
+    "partOfSpeech": "noun",
+    "definition": "pressure",
+    "example": "Korkea paine saa ilman tuntumaan raskaalta ja tiheältä. (High pressure makes the air feel heavy and dense.)"
+  },
+  {
+    "word": "painua",
+    "partOfSpeech": "verb",
+    "definition": "1. To sink, sag, droop, fall, descend, 2. (colloquial) to go",
+    "example": "Aurinko alkoi painua horisontin taakse, kun päivä oli päättymässä. (The sun began to sink behind the horizon as the day was coming to an end.)"
+  },
+  {
+    "word": "pelastaa",
+    "partOfSpeech": "verb",
+    "definition": "to rescue",
+    "example": "Pelastusvene tuli nopeasti pelastamaan hukkuvia. (The rescue boat quickly came to save the drowning people.)"
+  },
+  {
+    "word": "peli",
+    "partOfSpeech": "noun",
+    "definition": "game, match",
+    "example": "Heidän joukkueensa voitti jännittävän jalkapallopelin. (Their team won the thrilling soccer game.)"
+  },
+  {
+    "word": "pestä",
+    "partOfSpeech": "verb",
+    "definition": "to wash",
+    "example": "Hän pesti kädet huolellisesti ennen ruokailua. (He washed his hands thoroughly before the meal.)"
+  },
+  {
+    "word": "pikku",
+    "partOfSpeech": "adjective",
+    "definition": "little",
+    "example": "Hänellä oli mukanaan pikku lahja ystävälleen. (He had a little gift for his friend with him.)"
+  },
+  {
+    "word": "portti",
+    "partOfSpeech": "noun",
+    "definition": "port, gate",
+    "example": "Iso rautaportti oli suljettu, joten heidän piti odottaa avaimen saapumista. (The big iron gate was closed, so they had to wait for the key to arrive.)"
+  },
+  {
+    "word": "positiivinen",
+    "partOfSpeech": "adjective",
+    "definition": "positive",
+    "example": "Hänellä oli aina positiivinen asenne elämään. (He always had a positive attitude towards life.)"
+  },
+  {
+    "word": "päästää",
+    "partOfSpeech": "verb",
+    "definition": "to release, to emit, to let loose",
+    "example": "Hän päästi iloisen huudon voiton jälkeen. (He let out a joyful shout after the victory.)"
+  },
+  {
+    "word": "rauta",
+    "partOfSpeech": "noun",
+    "definition": "iron",
+    "example": "Raudasta valmistetut esineet ovat usein kestäviä ja vahvoja. (Items made of iron are often durable and strong.)"
+  },
+  {
+    "word": "riippuvainen",
+    "partOfSpeech": "adjective",
+    "definition": "dependent",
+    "example": "Lapsi oli hyvin riippuvainen vanhemmistaan pienestä asti. (The child was very dependent on their parents from a young age.)"
+  },
+  {
+    "word": "syvyys",
+    "partOfSpeech": "noun",
+    "definition": "depth",
+    "example": "Syvyyksissä oli paljon tuntemattomia mereneläviä. (There were many unknown sea creatures in the depths.)"
+  },
+  {
+    "word": "sää",
+    "partOfSpeech": "noun",
+    "definition": "weather",
+    "example": "Sää oli aurinkoinen ja lämmin koko viikonlopun ajan. (The weather was sunny and warm throughout the weekend.)"
+  },
+  {
+    "word": "säästää",
+    "partOfSpeech": "verb",
+    "definition": "to save, to conserve, to save up",
+    "example": "Hän yritti säästää rahaa tulevaa matkaa varten. (He tried to save money for the upcoming trip.)"
+  },
+  {
+    "word": "taide",
+    "partOfSpeech": "noun",
+    "definition": "art",
+    "example": "Taide on aina ollut hänen intohimonsa ja harrastuksensa. (Art has always been his passion and hobby.)"
+  },
+  {
+    "word": "tausta",
+    "partOfSpeech": "noun",
+    "definition": "background",
+    "example": "Hänen taustansa oli monipuolinen ja hän oli oppinut paljon erilaisista kulttuureista. (His background was diverse, and he had learned a lot about various cultures.)"
+  },
+  {
+    "word": "tauti",
+    "partOfSpeech": "noun",
+    "definition": "disease, illness, malady",
+    "example": "Tämä tauti leviää nopeasti, joten on tärkeää ryhtyä torjuntatoimiin ajoissa. (This disease spreads quickly, so it is important to take preventive measures early.)"
+  },
+  {
+    "word": "televisio",
+    "partOfSpeech": "noun",
+    "definition": "television",
+    "example": "Hän katsoi televisiosta suosikkiohjelmaansa joka ilta. (He watched his favorite TV show every evening.)"
+  },
+  {
+    "word": "veikko",
+    "partOfSpeech": "noun",
+    "definition": "brother, chap, fellow",
+    "example": "Hän oli uskollinen veikko, joka aina auttoi tarvittaessa. (He was a loyal fellow who always helped when needed.)"
+  },
+  {
+    "word": "velvollisuus",
+    "partOfSpeech": "noun",
+    "definition": "responsibility, duty, obligation",
+    "example": "Hän koki velvollisuudekseen auttaa muita vähäosaisia. (He felt it was his responsibility to help other less fortunate people.)"
+  },
+  {
+    "word": "vihdoin",
+    "partOfSpeech": "adverb",
+    "definition": "finally",
+    "example": "Pitkän odotuksen jälkeen he saapuivat vihdoinkin perille. (After a long wait, they finally arrived at their destination.)"
+  },
+  {
+    "word": "vilkas",
+    "partOfSpeech": "adjective",
+    "definition": "busy",
+    "example": "Kaupungin keskusta oli aina vilkas ja täynnä elämää. (The city center was always busy and bustling with activity.)"
+  },
+  {
+    "word": "vuori",
+    "partOfSpeech": "noun",
+    "definition": "mountain, rock",
+    "example": "He kiipesivät vuoren huipulle ja nauttivat upeista maisemista. (They climbed to the top of the mountain and enjoyed the stunning views.)"
+  },
+  {
+    "word": "hankinta",
+    "partOfSpeech": "noun",
+    "definition": "acquisition, purchase",
+    "example": "Uuden auton hankinta oli heille suuri päätös. (The purchase of a new car was a big decision for them.)"
+  },
+  {
+    "word": "juhannus",
+    "partOfSpeech": "noun",
+    "definition": "midsummer day",
+    "example": "Suomessa juhannusta vietetään yleensä suurella kesäjuhlalla. (In Finland, midsummer day is usually celebrated with a big summer festival.)"
+  },
+  {
+    "word": "jää",
+    "partOfSpeech": "noun",
+    "definition": "ice",
+    "example": "Jäät sulivat nopeasti kevätauringon lämmön vaikutuksesta. (The ice melted quickly due to the warmth of the spring sun.)"
+  },
+  {
+    "word": "kauppala",
+    "partOfSpeech": "noun",
+    "definition": "market town",
+    "example": "Kauppala oli vilkas ja siellä oli monia kauppoja ja ravintoloita. (The market town was bustling with many shops and restaurants.)"
+  },
+  {
+    "word": "keskusta",
+    "partOfSpeech": "noun",
+    "definition": "center, city center",
+    "example": "Keskustassa oli monia nähtävyyksiä ja kauppoja. (The city center had many attractions and shops.)"
+  },
+  {
+    "word": "kunnallinen",
+    "partOfSpeech": "adjective",
+    "definition": "municipal",
+    "example": "Kunnalliset palvelut tarjosivat apua moniin arkipäivän haasteisiin. (Municipal services provided assistance for many everyday challenges.)"
+  },
+  {
+    "word": "lainsäädäntö",
+    "partOfSpeech": "noun",
+    "definition": "legislation",
+    "example": "Uusi lainsäädäntö tuli voimaan tänä vuonna ja vaikutti moniin sääntöihin. (The new legislation came into effect this year and affected many regulations.)"
+  },
+  {
+    "word": "liikaa",
+    "partOfSpeech": "adjective",
+    "definition": "too many",
+    "example": "Hänellä oli liikaa tehtäviä ja hän tunsi olonsa ylikuormitetuksi. (He had too many tasks and felt overwhelmed.)"
+  },
+  {
+    "word": "linna",
+    "partOfSpeech": "noun",
+    "definition": "castle",
+    "example": "Vanha linna oli täynnä historiaa ja tarinoita menneiltä ajoilta. (The old castle was full of history and stories from the past.)"
+  },
+  {
+    "word": "lippu",
+    "partOfSpeech": "noun",
+    "definition": "ticket/flag",
+    "example": "Hän osti lipun elokuviin ja odotti innolla elokuvan alkamista. (He bought a ticket to the movies and eagerly awaited the start of the film.)"
+  },
+  {
+    "word": "luottaa",
+    "partOfSpeech": "verb",
+    "definition": "to trust",
+    "example": "Hän voi aina luottaa parhaan ystävänsä tukeen vaikeina aikoina. (He can always trust his best friend's support in difficult times.)"
+  },
+  {
+    "word": "millainen",
+    "partOfSpeech": "pronoun",
+    "definition": "what kind",
+    "example": "Millainen päivä sinulla oli tänään? (What kind of day did you have today?)"
+  },
+  {
+    "word": "monesti",
+    "partOfSpeech": "adverb",
+    "definition": "many times",
+    "example": "Hän oli käynyt monesti samassa paikassa ja tunsi sen hyvin. (He had been to the same place many times and knew it well.)"
+  },
+  {
+    "word": "oire",
+    "partOfSpeech": "noun",
+    "definition": "symptom, indication",
+    "example": "Kuume ja yskä olivat ensimmäisiä flunssan oireita. (Fever and cough were the first symptoms of the flu.)"
+  },
+  {
+    "word": "paistaa",
+    "partOfSpeech": "verb",
+    "definition": "to fry, to shine",
+    "example": "Aurinko alkoi paistaa pilvien takaa ja lämmitti heidän kasvojaan. (The sun began to shine from behind the clouds and warmed their faces.)"
+  },
+  {
+    "word": "palkkio",
+    "partOfSpeech": "noun",
+    "definition": "reward, fee, bonus",
+    "example": "Hän sai suuren palkkion hyvin tehdystä työstä. (He received a large reward for a job well done.)"
+  },
+  {
+    "word": "perustella",
+    "partOfSpeech": "verb",
+    "definition": "to justify",
+    "example": "Hän yritti perustella päätöstään, mutta muut eivät olleet vakuuttuneita. (He tried to justify his decision, but others were not convinced.)"
+  },
+  {
+    "word": "peräti",
+    "partOfSpeech": "adverb",
+    "definition": "even, as much as, no less than",
+    "example": "He saivat peräti viisi palkintoa samassa kilpailussa. (They received as many as five awards in the same competition.)"
+  },
+  {
+    "word": "pitkäaikainen",
+    "partOfSpeech": "adjective",
+    "definition": "long-term",
+    "example": "Pitkäaikainen suunnittelu oli avain menestykseen projektissa. (Long-term planning was the key to success in the project.)"
+  },
+  {
+    "word": "ristiriita",
+    "partOfSpeech": "noun",
+    "definition": "contradiction",
+    "example": "Heidän mielipiteensä olivat täydellisessä ristiriidassa toistensa kanssa. (Their opinions were in complete contradiction with each other.)"
+  },
+  {
+    "word": "siipi",
+    "partOfSpeech": "noun",
+    "definition": "wing",
+    "example": "Linnun siivet olivat kauniin väriset ja siro liikkeissään. (The bird's wings were beautifully colored and graceful in their movements.)"
+  },
+  {
+    "word": "sormi",
+    "partOfSpeech": "noun",
+    "definition": "finger",
+    "example": "Hän viittoi sormellaan osoittaakseen oikeaan suuntaan. (He pointed with his finger to show the right direction.)"
+  },
+  {
+    "word": "tilapäinen",
+    "partOfSpeech": "adjective",
+    "definition": "temporary",
+    "example": "Hän asui tilapäisesti ystävänsä luona muuton aikana. (He temporarily lived at his friend's place during the move.)"
+  },
+  {
+    "word": "vailla",
+    "partOfSpeech": "preposition",
+    "definition": "without, free",
+    "example": "Hän tunsi itsensä onnelliseksi ja vailla huolta maailmassa. (He felt happy and carefree in the world.)"
+  },
+  {
+    "word": "valitus",
+    "partOfSpeech": "noun",
+    "definition": "moan, groan",
+    "example": "Hänen valituksensa herätti huomiota ja sai muutkin huolestumaan. (His groaning attracted attention and caused others to worry too.)"
+  },
+  {
+    "word": "valvonta",
+    "partOfSpeech": "noun",
+    "definition": "monitoring, surveillance",
+    "example": "Valvonta oli tiukkaa alueella, jossa oli tapahtunut useita rikoksia. (Surveillance was tight in the area where several crimes had occurred.)"
+  },
+  {
+    "word": "vihollinen",
+    "partOfSpeech": "noun",
+    "definition": "enemy",
+    "example": "Heidän tuli yhdistää voimansa taistellakseen yhteistä vihollista vastaan. (They had to join forces to fight their common enemy.)"
+  },
+  {
+    "word": "viihtyä",
+    "partOfSpeech": "verb",
+    "definition": "to enjoy one's stay",
+    "example": "Hän viihtyi hyvin lomakeskuksessa ja nautti aurinkoisista päivistä. (He enjoyed his stay at the resort and relished the sunny days.)"
+  },
+  {
+    "word": "viipyä",
+    "partOfSpeech": "verb",
+    "definition": "to stay, to take one's time",
+    "example": "Hän halusi viipyä hetken nauttiakseen kauniista maisemista. (He wanted to stay a while to enjoy the beautiful scenery.)"
+  },
+  {
+    "word": "viisikymmentä",
+    "partOfSpeech": "numeral",
+    "definition": "fifty",
+    "example": "Hän täyttää viisikymmentä ensi kuussa. (He will turn fifty next month.)"
+  },
+  {
+    "word": "aito",
+    "partOfSpeech": "adjective",
+    "definition": "real, authentic, genuine, original",
+    "example": "Tämä taulu on aito mestariteos. (This painting is a genuine masterpiece.)"
+  },
+  {
+    "word": "alhainen",
+    "partOfSpeech": "adjective",
+    "definition": "low, common, humble, lowly || base, mean",
+    "example": "Hänen alhainen käytöksensä ei ollut hyväksyttävää. (His low behavior was not acceptable.)"
+  },
+  {
+    "word": "arvata",
+    "partOfSpeech": "verb",
+    "definition": "to guess, to speculate",
+    "example": "Hän yritti arvata, kuka oli lähettänyt hänelle tuntemattoman kirjeen. (He tried to guess who had sent him the unfamiliar letter.)"
+  },
+  {
+    "word": "arviointi",
+    "partOfSpeech": "noun",
+    "definition": "estimation, evaluation, assessment, appraisal || mark, grade",
+    "example": "Kurssin arviointi perustui monipuolisiin tehtäviin ja loppukokeeseen. (The assessment in the course was based on various assignments and the final exam.)"
+  },
+  {
+    "word": "asiakirja",
+    "partOfSpeech": "noun",
+    "definition": "document",
+    "example": "Tärkeä asiakirja oli kadonnut, ja he yrittivät epätoivoisesti löytää sen. (The important document was missing, and they desperately tried to find it.)"
+  },
+  {
+    "word": "epäonnistua",
+    "partOfSpeech": "verb",
+    "definition": "to fail || to abort",
+    "example": "Hän ei voinut sietää ajatusta siitä, että hän saattaisi epäonnistua. (He couldn't bear the thought of the possibility of failure.)"
+  },
+  {
+    "word": "erillinen",
+    "partOfSpeech": "adjective",
+    "definition": "separate, detached || single, individual",
+    "example": "Hän piti työ- ja yksityiselämänsä erillisinä pitääkseen tasapainon. (He kept his work and personal life separate to maintain balance.)"
+  },
+  {
+    "word": "etäisyys",
+    "partOfSpeech": "noun",
+    "definition": "distance",
+    "example": "He kävelivät pitkän etäisyyden löytääkseen paikan, johon he olivat matkalla. (They walked a long distance to find the place they were heading to.)"
+  },
+  {
+    "word": "funktio",
+    "partOfSpeech": "noun",
+    "definition": "function (math)",
+    "example": "Matematiikassa hän ymmärsi hyvin erilaisia funktioita ja niiden käyttötarkoituksia. (In mathematics, he understood various functions and their applications well.)"
+  },
+  {
+    "word": "hedelmä",
+    "partOfSpeech": "noun",
+    "definition": "fruit",
+    "example": "Hän nautti aamulla tuoreesta hedelmäsalaatista. (He enjoyed a fresh fruit salad in the morning.)"
+  },
+  {
+    "word": "johtopäätös",
+    "partOfSpeech": "noun",
+    "definition": "conclusion",
+    "example": "Heidän pitkien keskustelujen jälkeen he tekivät yhdessä tärkeän johtopäätöksen. (After their long discussions, they came to an important conclusion together.)"
+  },
+  {
+    "word": "kiinnostua",
+    "partOfSpeech": "verb",
+    "definition": "to become interested",
+    "example": "Hän alkoi kiinnostua luonnontieteistä ja matematiikasta yhä enemmän. (He became more and more interested in natural sciences and mathematics.)"
+  },
+  {
+    "word": "kiivetä",
+    "partOfSpeech": "verb",
+    "definition": "to climb",
+    "example": "Hän päätti kiivetä vuoren huipulle ja kokea sen upean näkymän. (He decided to climb to the top of the mountain and experience the stunning view.)"
+  },
+  {
+    "word": "kirkolliskokous",
+    "partOfSpeech": "noun",
+    "definition": "synod (church council)",
+    "example": "Kirkolliskokous kokoontui ratkaisemaan tärkeitä uskonnollisia kysymyksiä. (The synod gathered to resolve important religious matters.)"
+  },
+  {
+    "word": "lähtökohta",
+    "partOfSpeech": "noun",
+    "definition": "starting point",
+    "example": "Heidän oli tärkeää ymmärtää, mikä oli lähtökohta heidän tutkimukselleen. (It was important for them to understand what the starting point of their research was.)"
+  },
+  {
+    "word": "monipuolinen",
+    "partOfSpeech": "adjective",
+    "definition": "versatile",
+    "example": "Hän oli monipuolinen taiteilija, joka osasi monia erilaisia taidemuotoja. (He was a versatile artist who excelled in various forms of art.)"
+  },
+  {
+    "word": "nauraa",
+    "partOfSpeech": "verb",
+    "definition": "to laugh",
+    "example": "He nauroivat yhdessä vanhoille hauskoille muistoilleen. (They laughed together at old funny memories.)"
+  },
+  {
+    "word": "opiskella",
+    "partOfSpeech": "verb",
+    "definition": "to study",
+    "example": "Hän vietti paljon aikaa kirjaston lukusalissa opiskellen tenttiin. (He spent a lot of time studying for the exam in the library's reading room.)"
+  },
+  {
+    "word": "puku",
+    "partOfSpeech": "noun",
+    "definition": "a man's suit",
+    "example": "Hän valitsi tyylikkään puvun yrityksen juhliin. (He chose a stylish suit for the company's celebration.)"
+  },
+  {
+    "word": "päällikkö",
+    "partOfSpeech": "noun",
+    "definition": "boss, chief, manager",
+    "example": "Päällikkö johti tiimiä tehokkaasti ja motivoi työntekijöitä saavuttamaan tavoitteet. (The boss effectively led the team and motivated employees to achieve their goals.)"
+  },
+  {
+    "word": "rengas",
+    "partOfSpeech": "noun",
+    "definition": "ring, loop",
+    "example": "Hän punoi renkaista kauniin seppeleen juhlapäivää varten. (She braided a beautiful wreath from rings for the celebration day.)"
+  },
+  {
+    "word": "rinnalla",
+    "partOfSpeech": "preposition",
+    "definition": "beside, next to",
+    "example": "Hän kulki pitkin rannan hiekkaa ystävänsä rinnalla nauttien auringonlaskusta. (He walked along the beach sand next to his friend, enjoying the sunset.)"
+  },
+  {
+    "word": "rooli",
+    "partOfSpeech": "noun",
+    "definition": "role, part",
+    "example": "Hän valmistautui tärkeään rooliin teatteriesityksessä harjoittelemalla ahkerasti. (He prepared for an important role in the theater performance by practicing diligently.)"
+  },
+  {
+    "word": "sato",
+    "partOfSpeech": "noun",
+    "definition": "crop",
+    "example": "Hyvä sato toi maanviljelijälle runsaasti iloa ja tyydytystä. (A good crop brought the farmer plenty of joy and satisfaction.)"
+  },
+  {
+    "word": "sisällä",
+    "partOfSpeech": "adverb",
+    "definition": "inside",
+    "example": "Hän piilotteli lempilelujaan laatikon sisällä, jotta kukaan ei löytäisi niitä. (He hid his favorite toys inside the drawer so that no one would find them.)"
+  },
+  {
+    "word": "suuruinen",
+    "partOfSpeech": "adjective",
+    "definition": "of the amount (of something)",
+    "example": "Tuki oli huomattavan suuruinen ja auttoi paljon projektin toteutuksessa. (The support was of a significant amount and greatly helped in the project's implementation.)"
+  },
+  {
+    "word": "tanssia",
+    "partOfSpeech": "verb",
+    "definition": "to dance",
+    "example": "He päättivät tanssia koko yön juhlistaakseen ystävänsä häitä. (They decided to dance all night to celebrate their friend's wedding.)"
+  },
+  {
+    "word": "tavoittaa",
+    "partOfSpeech": "verb",
+    "definition": "to reach, to catch up with",
+    "example": "Hän yritti tavoittaa päämääränsä ja saavuttaa sen mahdollisimman pian. (He tried to reach his goal and achieve it as soon as possible.)"
+  },
+  {
+    "word": "teoreettinen",
+    "partOfSpeech": "adjective",
+    "definition": "theoretical",
+    "example": "Hänen tutkimuksensa perustui vahvalle teoreettiselle pohjalle. (His research was based on a strong theoretical foundation.)"
+  },
+  {
+    "word": "toistaa",
+    "partOfSpeech": "verb",
+    "definition": "to repeat, to play back",
+    "example": "Hän pyysi opettajaa toistamaan selityksen, jotta voisi ymmärtää sen paremmin. (He asked the teacher to repeat the explanation so that he could understand it better.)"
+  },
+  {
+    "word": "tähti",
+    "partOfSpeech": "noun",
+    "definition": "star",
+    "example": "Yötaivas oli täynnä kirkkaita tähtiä, jotka loistivat kaukana. (The night sky was full of bright stars shining in the distance.)"
+  },
+  {
+    "word": "vanhus",
+    "partOfSpeech": "noun",
+    "definition": "senior citizen, old person",
+    "example": "Hän vieraili säännöllisesti vanhusten kodissa pitääkseen heistä seuraa. (He regularly visited the elderly home to keep them company.)"
+  },
+  {
+    "word": "vastustaja",
+    "partOfSpeech": "noun",
+    "definition": "opponent",
+    "example": "Hänen vastustajansa oli taitava, mutta hän ei luovuttanut helpolla. (His opponent was skillful, but he didn't give up easily.)"
+  },
+  {
+    "word": "yhteiskunnallinen",
+    "partOfSpeech": "adjective",
+    "definition": "social, societal",
+    "example": "Yhteiskunnalliset muutokset vaikuttivat suoraan ihmisten elämään ja hyvinvointiin. (Social changes directly affected people's lives and well-being.)"
+  },
+  {
+    "word": "ylimääräinen",
+    "partOfSpeech": "adjective",
+    "definition": "extra",
+    "example": "He järjestivät ylimääräisen kokouksen käsitelläkseen kiireellisiä asioita. (They organized an extra meeting to address urgent matters.)"
+  },
+  {
+    "word": "aines",
+    "partOfSpeech": "noun",
+    "definition": "material, ingredient, component, element, substance",
+    "example": "Nämä ainekset olivat välttämättömiä herkullisen kakun valmistuksessa. (These ingredients were essential for making the delicious cake.)"
+  },
+  {
+    "word": "ajankohta",
+    "partOfSpeech": "noun",
+    "definition": "time, point in time, moment, juncture",
+    "example": "Hän mietti sopivaa ajankohtaa kertoa tärkeä uutinen perheelleen. (He thought about the right time to tell the important news to his family.)"
+  },
+  {
+    "word": "aloite",
+    "partOfSpeech": "noun",
+    "definition": "motion, initiative",
+    "example": "Hän esitti uuden aloitteen parantaakseen ympäristön tilaa kaupungissa. (He proposed a new initiative to improve the environment in the city.)"
+  },
+  {
+    "word": "analyysi",
+    "partOfSpeech": "noun",
+    "definition": "analysis",
+    "example": "He suorittivat perusteellisen analyysin löytääkseen syyn ongelmaan. (They conducted a thorough analysis to find the cause of the problem.)"
+  },
+  {
+    "word": "budjetti",
+    "partOfSpeech": "noun",
+    "definition": "budget",
+    "example": "He suunnittelivat tarkasti budjettinsa, jotta voisivat hallita kustannuksia. (They carefully planned their budget to manage costs.)"
+  },
+  {
+    "word": "ensinnäkin",
+    "partOfSpeech": "adverb",
+    "definition": "firstly, at first",
+    "example": "Ensinnäkin, meidän täytyy selvittää, mitkä ovat tärkeimmät haasteet projektissa. (Firstly, we need to identify the most important challenges in the project.)"
+  },
+  {
+    "word": "haltija",
+    "partOfSpeech": "noun",
+    "definition": "possessor, occupant || elf",
+    "example": "Metsänhaltija vahti tarkasti, ettei kukaan häirinnyt metsän rauhaa. (The forest elf closely guarded to ensure that no one disturbed the peace of the forest.)"
+  },
+  {
+    "word": "hiljaa",
+    "partOfSpeech": "adverb",
+    "definition": "quietly",
+    "example": "Hän meni huoneeseen hiljaa, jotta ei herättäisi nukkuvaa vauvaa. (He entered the room quietly so as not to wake the sleeping baby.)"
+  },
+  {
+    "word": "huomauttaa",
+    "partOfSpeech": "verb",
+    "definition": "to point out, to remark",
+    "example": "Hän huomautti ystävälleen, että tämä oli unohtanut ottaa avaimet mukaan. (He pointed out to his friend that he had forgotten to take the keys with him.)"
+  },
+  {
+    "word": "juoda",
+    "partOfSpeech": "verb",
+    "definition": "to drink",
+    "example": "Hän piti viikonloppuisin tapana juoda kupillisen kuumaa teetä. (He had a habit of drinking a cup of hot tea on weekends.)"
+  },
+  {
+    "word": "Jyväskylä",
+    "partOfSpeech": "noun",
+    "definition": "Jyväskylä (city)",
+    "example": "Jyväskylässä on paljon kauniita järvimaisemia ja ulkoilumahdollisuuksia. (Jyväskylä has many beautiful lake views and outdoor activities.)"
+  },
+  {
+    "word": "kaikenlainen",
+    "partOfSpeech": "pronoun",
+    "definition": "all kinds",
+    "example": "Hänellä oli kaikenlaisia elämänkokemuksia, jotka tekivät hänestä viisaan ja monipuolisen henkilön. (He had all kinds of life experiences that made him a wise and versatile person.)"
+  },
+  {
+    "word": "katkaista",
+    "partOfSpeech": "verb",
+    "definition": "to cut, to split, to break (trans)",
+    "example": "Hän käytti terävää veistä katkaistakseen oksan puusta. (He used a sharp knife to cut off a branch from the tree.)"
+  },
+  {
+    "word": "keskiarvo",
+    "partOfSpeech": "noun",
+    "definition": "mean (arithmetic)",
+    "example": "Hän laski nopeasti kaikkien opiskelijoiden keskiarvot ja totesi, että luokalla oli korkeatasoinen ryhmä. (He quickly calculated the mean of all the students and concluded that the class was high-achieving.)"
+  },
+  {
+    "word": "kiinnostaa",
+    "partOfSpeech": "verb",
+    "definition": "to interest",
+    "example": "Häntä kiinnosti erityisesti taidehistoria ja sen vaikutus nykypäivän taiteeseen. (He was particularly interested in art history and its influence on contemporary art.)"
+  },
+  {
+    "word": "ks.",
+    "partOfSpeech": "abbreviation",
+    "definition": "see",
+    "example": "Ks. yllä oleva esimerkki. (See the example above.)"
+  },
+  {
+    "word": "laudatur",
+    "partOfSpeech": "noun",
+    "definition": "highest academic grade in Finland",
+    "example": "Hän sai todistukseensa laudaturin useasta aineesta, mikä oli harvinaista saavutus. (He received the highest academic grade in several subjects on his certificate, which was a rare achievement.)"
+  },
+  {
+    "word": "lailla",
+    "partOfSpeech": "noun",
+    "definition": "way, manner",
+    "example": "Hän hoiti asioita aina huolellisesti ja perusteellisesti lailla, joka oli esimerkillinen muille. (He always handled things carefully and thoroughly in a way that was exemplary to others.)"
+  },
+  {
+    "word": "lauantai",
+    "partOfSpeech": "noun",
+    "definition": "Saturday",
+    "example": "Lauantai oli perheen yhteinen päivä, jolloin he viettivät aikaa yhdessä ulkoillen ja kokaten yhdessä. (Saturday was a family day when they spent time together outdoors and cooking.)"
+  },
+  {
+    "word": "luokse",
+    "partOfSpeech": "preposition",
+    "definition": "to (someone's place)",
+    "example": "Hän meni ystävänsä luokse viettämään iltaa ja keskustelemaan tärkeistä asioista. (He went to his friend's place to spend the evening and discuss important matters.)"
+  },
+  {
+    "word": "lähtö",
+    "partOfSpeech": "noun",
+    "definition": "departure",
+    "example": "Lähtö oli haikea, mutta samalla innostunut uusista seikkailuista ja mahdollisuuksista. (The departure was bittersweet, but at the same time, excited for new adventures and opportunities.)"
+  },
+  {
+    "word": "maailmansota",
+    "partOfSpeech": "noun",
+    "definition": "world war",
+    "example": "Maailmansota vaikutti syvästi ihmisten elämään ja muutti maailmanpolitiikan suuntaa pitkäksi aikaa. (The world war profoundly affected people's lives and changed the course of world politics for a long time.)"
+  },
+  {
+    "word": "myynti",
+    "partOfSpeech": "noun",
+    "definition": "sales",
+    "example": "Yrityksen myynti kasvoi huomattavasti uuden markkinointikampanjan ansiosta. (The company's sales grew significantly thanks to the new marketing campaign.)"
+  },
+  {
+    "word": "oppikoulu",
+    "partOfSpeech": "noun",
+    "definition": "secondary school (formerly)",
+    "example": "Hän kävi nuoruudessaan oppikoulua ja sai sieltä vahvan pohjan akateemiselle menestykselle. (He attended secondary school in his youth and gained a strong foundation for academic success there.)"
+  },
+  {
+    "word": "perusta",
+    "partOfSpeech": "noun",
+    "definition": "ground",
+    "example": "Rakennuksen perusta oli vahva ja kestävä, mikä antoi sille pitkän elinkaaren. (The building's foundation was strong and durable, giving it a long lifespan.)"
+  },
+  {
+    "word": "perä",
+    "partOfSpeech": "noun",
+    "definition": "rear, back, tail, butt",
+    "example": "Hän istui veneen perässä ja katseli maisemia, kun he lipuivat hitaasti eteenpäin. (He sat at the back of the boat and watched the scenery as they slowly drifted forward.)"
+  },
+  {
+    "word": "pikemmin",
+    "partOfSpeech": "adverb",
+    "definition": "sooner",
+    "example": "Hän toivoi, että ongelma ratkeaisi pikemmin kuin myöhemmin, jotta he voisivat palata normaaliin arkeen. (He hoped that the problem would be resolved sooner rather than later, so they could return to their normal routine.)"
+  },
+  {
+    "word": "porras",
+    "partOfSpeech": "noun",
+    "definition": "step (stair)",
+    "example": "Hän kompastui ylimmällä porraskäytävällä ja loukkasi nilkkansa pahasti. (He stumbled on the top step of the staircase and badly injured his ankle.)"
+  },
+  {
+    "word": "puutarha",
+    "partOfSpeech": "noun",
+    "definition": "garden",
+    "example": "He viettivät paljon aikaa puutarhassaan istuttaen kasveja ja hoitaen vihanneksiaan. (They spent a lot of time in their garden planting flowers and tending to their vegetables.)"
+  },
+  {
+    "word": "raaskia",
+    "partOfSpeech": "verb",
+    "definition": "to bear, to stand, to have the heart to",
+    "example": "Hän ei raaskinut jättää vanhaa koiraa yksin, joten hän vei sen mukanaan lomamatkalle. (He couldn't bear to leave his old dog alone, so he took it with him on vacation.)"
+  },
+  {
+    "word": "rajoitus",
+    "partOfSpeech": "noun",
+    "definition": "restriction",
+    "example": "Tiellä oli nopeusrajoitus, joka pakotti autoilijat ajamaan varovaisesti ja hitaasti. (There was a speed restriction on the road that forced drivers to drive carefully and slowly.)"
+  },
+  {
+    "word": "siemen",
+    "partOfSpeech": "noun",
+    "definition": "seed",
+    "example": "Hän istutti keväällä puutarhaan erilaisia siemeniä, jotka pian alkoivat versoa ja kasvaa. (He planted various seeds in the garden in the spring, which soon began to sprout and grow.)"
+  },
+  {
+    "word": "sininen",
+    "partOfSpeech": "adjective",
+    "definition": "blue",
+    "example": "Taivas oli kirkkaan sininen ja aurinko paistoi lämpimästi. (The sky was bright blue, and the sun was shining warmly.)"
+  },
+  {
+    "word": "suunnilleen",
+    "partOfSpeech": "adverb",
+    "definition": "about, around, approximately",
+    "example": "Matka kestää suunnilleen kaksi tuntia, riippuen liikenteestä. (The journey takes about two hours, depending on the traffic.)"
+  },
+  {
+    "word": "suuntautua",
+    "partOfSpeech": "verb",
+    "definition": "to turn, to tend, to be oriented toward",
+    "example": "Hänen uravalintansa suuntautui vahvasti ympäristötietoisuuteen ja kestävään kehitykseen. (His career choice was strongly oriented towards environmental awareness and sustainable development.)"
+  },
+  {
+    "word": "synnyttää",
+    "partOfSpeech": "verb",
+    "definition": "to give birth",
+    "example": "Hän synnytti terveen poikalapsen ja oli onnesta ymmyrkäisenä. (She gave birth to a healthy baby boy and was overjoyed.)"
+  },
+  {
+    "word": "taata",
+    "partOfSpeech": "verb",
+    "definition": "to guarantee, to assure, to ensure, to secure",
+    "example": "Hän voi taata, että työnsä tehdään huolellisesti ja ajoissa. (He can guarantee that his work is done meticulously and on time.)"
+  },
+  {
+    "word": "taimi",
+    "partOfSpeech": "noun",
+    "definition": "seedling (a young plant grown from seed)",
+    "example": "Hän istutti kasvihuoneeseen erilaisia taimia, jotka kasvoivat nopeasti terveiksi ja vahvoiksi. (He planted various seedlings in the greenhouse, which quickly grew into healthy and strong plants.)"
+  },
+  {
+    "word": "tappio",
+    "partOfSpeech": "noun",
+    "definition": "defeat, loss",
+    "example": "He kärsivät suuren tappion viimeisessä pelissä, mutta olivat silti ylpeitä saavutuksistaan kauden aikana. (They suffered a major defeat in the final game, but were still proud of their achievements during the season.)"
+  },
+  {
+    "word": "tarpeen",
+    "partOfSpeech": "adjective",
+    "definition": "necessary, essential",
+    "example": "Hän ymmärsi, että säännöllinen liikunta oli tarpeen terveyden ylläpitämiseksi. (He understood that regular exercise was essential for maintaining good health.)"
+  },
+  {
+    "word": "tunkeutua",
+    "partOfSpeech": "verb",
+    "definition": "to penetrate, to invade",
+    "example": "Tuntematon mies yritti tunkeutua heidän kotiinsa, mutta naapurit huomasivat ja hälyttivät poliisin paikalle. (An unknown man tried to invade their home, but the neighbors noticed and called the police.)"
+  },
+  {
+    "word": "turva",
+    "partOfSpeech": "noun",
+    "definition": "1. protection, safety, security (condition or feeling of being safe), 2. security (something that secures)",
+    "example": "Hän tunsi olonsa turvalliseksi isän ollessa lähellä ja suojellessa heitä. (He felt safe when his father was nearby, protecting them.)"
+  },
+  {
+    "word": "työntää",
+    "partOfSpeech": "verb",
+    "definition": "to push",
+    "example": "Hän työnsi voimakkaasti ovea auki ja astui sisään huoneeseen. (He pushed the door open forcefully and entered the room.)"
+  },
+  {
+    "word": "täydentää",
+    "partOfSpeech": "verb",
+    "definition": "to complete, to fill in, to supplement",
+    "example": "Hän täydensi opintojaan ottamalla lisäkursseja, jotka auttoivat häntä syventämään osaamistaan. (He supplemented his studies by taking additional courses that helped him deepen his knowledge.)"
+  },
+  {
+    "word": "ulkonainen",
+    "partOfSpeech": "adjective",
+    "definition": "external",
+    "example": "Ulkoinen olemus ei kerro aina totuutta ihmisen luonteesta tai persoonallisuudesta. (External appearance does not always reveal the truth about a person's character or personality.)"
+  },
+  {
+    "word": "vilja",
+    "partOfSpeech": "noun",
+    "definition": "corn, cereal, grain",
+    "example": "Viljan viljely oli tärkeä osa heidän perheensä elinkeinoa, ja se tarjosi heille vakaan toimeentulon. (Growing grain was an important part of their family's livelihood, providing them with a stable income.)"
+  },
+  {
+    "word": "virkamies",
+    "partOfSpeech": "noun",
+    "definition": "public servant",
+    "example": "Hän oli aina unelmoinut työskentelevänsä virkamiehenä ja auttavansa yhteisöään eri tavoin. (He had always dreamed of working as a public servant and helping his community in various ways.)"
+  },
+  {
+    "word": "aparaatti",
+    "partOfSpeech": "noun",
+    "definition": "apparatus, gadget, widget",
+    "example": "Uusi keittiön aparaatti teki ruoanlaitosta paljon helpompaa ja nopeampaa. (The new kitchen gadget made cooking much easier and faster.)"
+  },
+  {
+    "word": "arvella",
+    "partOfSpeech": "verb",
+    "definition": "to presume, to suppose || to assume, to take for granted, to believe",
+    "example": "Hän arveli, että tilanne voisi parantua, jos he vain pysyisivät rauhallisina ja olisivat kärsivällisiä. (He presumed that the situation could improve if they just stayed calm and were patient.)"
+  },
+  {
+    "word": "elin",
+    "partOfSpeech": "noun",
+    "definition": "organ, system",
+    "example": "Ihmisen elimistö koostuu monista erilaisista elimistä ja järjestelmistä, jotka toimivat yhdessä pitämään meidät terveinä ja elinvoimaisina. (The human body consists of many different organs and systems that work together to keep us healthy and vibrant.)"
+  },
+  {
+    "word": "huhtikuu",
+    "partOfSpeech": "noun",
+    "definition": "April",
+    "example": "Huhtikuu oli täynnä yllätyksiä ja lämpimiä päiviä, jotka antoivat lupauksen alkavasta keväästä. (April was full of surprises and warm days that promised the beginning of spring.)"
+  },
+  {
+    "word": "ikävä",
+    "partOfSpeech": "noun",
+    "definition": "boredom || longing",
+    "example": "Pitkä talvi toi mukanaan ikävän ja kaipauksen lämpimämpiin ja aurinkoisempiin päiviin. (The long winter brought with it boredom and longing for warmer and sunnier days.)"
+  },
+  {
+    "word": "jäljellä",
+    "partOfSpeech": "adjective",
+    "definition": "left, remaining",
+    "example": "Heillä oli vielä paljon työtä jäljellä, mutta he olivat jo saavuttaneet merkittävää edistystä. (They still had a lot of work left, but they had already made significant progress.)"
+  },
+  {
+    "word": "kaatua",
+    "partOfSpeech": "verb",
+    "definition": "to fall",
+    "example": "Hän kaatui jäisellä tiellä ja satutti kätensä pahasti. (He fell on the icy road and badly hurt his hand.)"
+  },
+  {
+    "word": "karhu",
+    "partOfSpeech": "noun",
+    "definition": "bear (animal)",
+    "example": "Suuren karhun näkeminen metsässä oli sekä pelottava että kiehtova kokemus. (Seeing a large bear in the forest was both frightening and fascinating.)"
+  },
+  {
+    "word": "korko",
+    "partOfSpeech": "noun",
+    "definition": "heel",
+    "example": "Kengän korko oli kulunut ja vaati pikaisen korjauksen, jotta se ei aiheuttaisi vaivaa kävellessä. (The shoe's heel was worn out and required prompt repair so that it wouldn't cause discomfort while walking.)"
+  },
+  {
+    "word": "kosteus",
+    "partOfSpeech": "noun",
+    "definition": "humidity",
+    "example": "Kesäkuukausina kosteus nousi korkealle, mikä teki ulkona liikkumisesta raskaampaa ja hikisempää. (During the summer months, humidity levels rose, making outdoor activities more tiring and sweaty.)"
+  },
+  {
+    "word": "kulma",
+    "partOfSpeech": "noun",
+    "definition": "corner, angle",
+    "example": "Hän seisoi huoneen pimeimmässä kulmassa odottaen jännittyneenä, mitä seuraavaksi tapahtuisi. (He stood in the darkest corner of the room, waiting nervously to see what would happen next.)"
+  },
+  {
+    "word": "lasku",
+    "partOfSpeech": "noun",
+    "definition": "bill",
+    "example": "Tarjoilija toi laskun pöytään, ja he jakoivat maksun keskenään. (The waiter brought the bill to the table, and they split the payment between them.)"
+  },
+  {
+    "word": "lautakunta",
+    "partOfSpeech": "noun",
+    "definition": "committee",
+    "example": "He asettivat erityisen lautakunnan tutkimaan tapausta ja tekemään suosituksia mahdollisista toimenpiteistä. (They appointed a special committee to investigate the case and make recommendations for potential actions.)"
+  },
+  {
+    "word": "lehmä",
+    "partOfSpeech": "noun",
+    "definition": "cow",
+    "example": "Lapset olivat innoissaan päästessään ruokkimaan lehmiä ja oppimaan lisää maatilan elämästä. (The children were excited to feed the cows and learn more about farm life.)"
+  },
+  {
+    "word": "länsi-Saksa",
+    "partOfSpeech": "proper noun",
+    "definition": "West Germany",
+    "example": "Vuonna 1990 Saksa yhdistyi, ja Länsi-Saksasta ja Itä-Saksasta tuli jälleen yksi maa. (In 1990, Germany was reunited, and West Germany and East Germany once again became one country.)"
+  },
+  {
+    "word": "maalaiskunta",
+    "partOfSpeech": "noun",
+    "definition": "rural municipality",
+    "example": "Heidän kotinsa sijaitsi viehättävässä maalaiskunnassa, jossa oli kaunis luonto ja rauhallinen elämänmeno. (Their home was located in a charming rural municipality with beautiful nature and a peaceful way of life.)"
+  },
+  {
+    "word": "pakastua",
+    "partOfSpeech": "verb",
+    "definition": "to freeze, to become frozen",
+    "example": "Kun lämpötila laski pakkasen puolelle, vesiputket alkoivat pakastua ja aiheuttaa ongelmia talon putkistoissa. (When the temperature dropped below freezing, the water pipes started to freeze, causing issues in the house's plumbing system.)"
+  },
+  {
+    "word": "myyjä",
+    "partOfSpeech": "noun",
+    "definition": "sales assistant",
+    "example": "Ystävällinen myyjä auttoi häntä valitsemaan sopivan puvun juhliin. (The friendly sales assistant helped him choose a suitable suit for the party.)"
+  },
+  {
+    "word": "myöhä",
+    "partOfSpeech": "adjective",
+    "definition": "late",
+    "example": "Hän saapui tapaamiseen myöhässä ja pyysi anteeksi viivytystä. (He arrived late to the meeting and apologized for the delay.)"
+  },
+  {
+    "word": "mänty",
+    "partOfSpeech": "noun",
+    "definition": "pine",
+    "example": "Mäntyjen tuoksu täytti ilman, kun he kävelivät metsäpolkua pitkin kohti järveä. (The scent of pines filled the air as they walked along the forest path toward the lake.)"
+  },
+  {
+    "word": "paksu",
+    "partOfSpeech": "adjective",
+    "definition": "thick, fat",
+    "example": "Kun hän laittoi takin päälle, hän tunsi sen paksun kankaan lämmittävän mukavasti. (When he put on the coat, he felt the thick fabric warming him comfortably.)"
+  },
+  {
+    "word": "parannus",
+    "partOfSpeech": "noun",
+    "definition": "improvement, betterment",
+    "example": "Heidän uudet toimenpiteensä johtivat huomattavaan terveyden parannukseen ja parempaan elämänlaatuun. (Their new measures led to a significant improvement in health and a better quality of life.)"
+  },
+  {
+    "word": "pelkästään",
+    "partOfSpeech": "adverb",
+    "definition": "only, merely",
+    "example": "Hän ei ollut pelkästään taitava, vaan myös erittäin omistautunut työlleen. (He was not only skilled but also extremely dedicated to his work.)"
+  },
+  {
+    "word": "polku",
+    "partOfSpeech": "noun",
+    "definition": "trail, path",
+    "example": "He seurasivat kapeaa polkua, joka vei heidät läpi metsän ja lopulta järven rannalle. (They followed a narrow trail that took them through the forest and eventually to the lake shore.)"
+  },
+  {
+    "word": "ravinto",
+    "partOfSpeech": "noun",
+    "definition": "nutrition",
+    "example": "Terveellinen ja tasapainoinen ravinto oli keskeinen osa hänen hyvinvointiaan ja energiatasojensa ylläpitoa. (Healthy and balanced nutrition was a key part of his well-being and maintaining his energy levels.)"
+  },
+  {
+    "word": "sali",
+    "partOfSpeech": "noun",
+    "definition": "hall",
+    "example": "Heidän juhlasalinsa oli koristeltu upeilla kukka-asetelmilla ja valtavalla kristallikruunulla. (Their banquet hall was adorned with beautiful floral arrangements and a massive crystal chandelier.)"
+  },
+  {
+    "word": "sokea",
+    "partOfSpeech": "adjective",
+    "definition": "blind",
+    "example": "Vaikka hän oli syntynyt sokeana, hän oli oppinut elämään täysipainoista ja itsenäistä elämää sokeutensa kanssa. (Although he was born blind, he had learned to live a full and independent life with his blindness.)"
+  },
+  {
+    "word": "sä",
+    "partOfSpeech": "pronoun",
+    "definition": "you (colloquial)",
+    "example": "Sä voit aina luottaa minuun, olen täällä sinua varten. (You can always trust me; I'm here for you.)"
+  },
+  {
+    "word": "taitava",
+    "partOfSpeech": "adjective",
+    "definition": "expert, skilled, capable",
+    "example": "Hän oli erittäin taitava käsityössä ja kykeni tekemään monimutkaisiakin korjauksia vanhoihin esineisiin. (He was highly skilled in handicrafts and could make even complex repairs to old items.)"
+  },
+  {
+    "word": "tammikuu",
+    "partOfSpeech": "noun",
+    "definition": "January",
+    "example": "Tammikuu oli kylmä ja luminen, mutta se toi myös mukanaan uuden alun ja mahdollisuuden tuoreeseen starttiin. (January was cold and snowy, but it also brought a new beginning and the opportunity for a fresh start.)"
+  },
+  {
+    "word": "tarpeeton",
+    "partOfSpeech": "adjective",
+    "definition": "useless, unnecessary",
+    "example": "Hän päätti luopua tarpeettomista tavaroista ja keskittyä vain niihin, jotka olivat hänelle todella tärkeitä. (He decided to get rid of unnecessary belongings and focus only on those that were truly important to him.)"
+  },
+  {
+    "word": "toimikunta",
+    "partOfSpeech": "noun",
+    "definition": "working group, committee",
+    "example": "He perustivat erityisen toimikunnan tutkimaan ympäristöongelmia ja ehdottamaan kestäviä ratkaisuja. (They established a special committee to investigate environmental issues and propose sustainable solutions.)"
+  },
+  {
+    "word": "torjua",
+    "partOfSpeech": "verb",
+    "definition": "to counter, prevent",
+    "example": "He kehittivät tehokkaita strategioita torjuakseen ilmastonmuutoksen negatiivisia vaikutuksia ja edistääkseen kestävää kehitystä. (They developed effective strategies to counteract the negative impacts of climate change and promote sustainable development.)"
+  },
+  {
+    "word": "tuotto",
+    "partOfSpeech": "noun",
+    "definition": "revenue",
+    "example": "Viime vuoden sijoitukset osoittivat merkittävää tuottoa, mikä antoi heille lisää varoja tuleviin projekteihin. (Last year's investments yielded significant revenue, providing them with additional funds for future projects.)"
+  },
+  {
+    "word": "tähdätä",
+    "partOfSpeech": "verb",
+    "definition": "to target, to aim, to strive",
+    "example": "Heidän tavoitteenaan oli tähdätä korkealle ja saavuttaa asetetut tavoitteet tietyssä aikataulussa. (Their aim was to strive for the highest and achieve the set goals within a specific timeframe.)"
+  },
+  {
+    "word": "valtakunnallinen",
+    "partOfSpeech": "adjective",
+    "definition": "nationwide",
+    "example": "Heidän uusi kampanjansa sai valtakunnallista huomiota ja herätti laajaa keskustelua mediassa. (Their new campaign received nationwide attention and sparked widespread discussion in the media.)"
+  },
+  {
+    "word": "Venäjä",
+    "partOfSpeech": "proper noun",
+    "definition": "Russia",
+    "example": "Venäjä on laaja maa, joka ulottuu yli kahden mantereen ja tarjoaa monenlaisia ​​maisemia ja kulttuurisia nähtävyyksiä. (Russia is a vast country that spans over two continents and offers a variety of landscapes and cultural attractions.)"
+  },
+  {
+    "word": "viisas",
+    "partOfSpeech": "adjective",
+    "definition": "wise",
+    "example": "Hän oli vanha ja viisas mies, jonka neuvot ja opetukset olivat arvostettuja koko yhteisössä. (He was an old and wise man whose advice and teachings were respected throughout the community.)"
+  },
+  {
+    "word": "virrata",
+    "partOfSpeech": "verb",
+    "definition": "to flow",
+    "example": "Joki alkoi virrata nopeammin sateiden jälkeen, mikä aiheutti tulvauhan lähialueilla. (The river started to flow faster after the rains, causing flooding in the surrounding areas.)"
+  },
+  {
+    "word": "ystävällinen",
+    "partOfSpeech": "adjective",
+    "definition": "friendly",
+    "example": "Naapurusto oli erittäin ystävällinen ja avulias, mikä teki uudesta muutosta helpomman. (The neighborhood was very friendly and helpful, which made the transition to the new place easier.)"
+  },
+  {
+    "word": "alkoholi",
+    "partOfSpeech": "noun",
+    "definition": "alcohol",
+    "example": "Hän päätti lopettaa alkoholin juomisen kokonaan terveydellisistä syistä. (He decided to quit drinking alcohol altogether for health reasons.)"
+  },
+  {
+    "word": "altis",
+    "partOfSpeech": "adjective",
+    "definition": "exposed, vulnerable, endangered",
+    "example": "Nuoret kasvit olivat alttiita tuholaisille ja tarvitsivat erityistä suojaa kasvunsa aikana. (The young plants were vulnerable to pests and needed special protection during their growth.)"
+  },
+  {
+    "word": "apostoli",
+    "partOfSpeech": "noun",
+    "definition": "apostle",
+    "example": "Hän oli pyhä mies, joka kulki kaupungista toiseen levittämässä uskonnollista sanomaa ja opetuksia. (He was a holy man who traveled from city to city spreading religious messages and teachings.)"
+  },
+  {
+    "word": "armeija",
+    "partOfSpeech": "noun",
+    "definition": "army",
+    "example": "Armeija valmistautui suureen hyökkäykseen vihollisen linjoja vastaan ja järjesti strategisia valmisteluja. (The army was preparing for a major attack against the enemy lines and organizing strategic preparations.)"
+  },
+  {
+    "word": "arvostella",
+    "partOfSpeech": "verb",
+    "definition": "to review, to evaluate, to assess",
+    "example": "Kriitikot alkoivat arvostella näytelmää sen heikkouksista ja puutteista, jotka heidän mielestään vaikuttivat kokonaiskokemukseen. (The critics began to review the play for its weaknesses and shortcomings, which they believed affected the overall experience.)"
+  },
+  {
+    "word": "betoni",
+    "partOfSpeech": "noun",
+    "definition": "concrete (material)",
+    "example": "Rakennustyömaalla käytettiin paljon betonia perustusten ja rakenteiden vahvistamiseen. (A lot of concrete was used at the construction site to strengthen the foundations and structures.)"
+  },
+  {
+    "word": "kamari",
+    "partOfSpeech": "noun",
+    "definition": "chamber, (bed)room",
+    "example": "He päättivät muuttaa ylimääräisen huoneen kirjastoksi ja työskentelykamariksi, jossa voitaisiin keskittyä lukemiseen ja tutkimukseen. (They decided to turn the spare room into a library and study chamber where they could focus on reading and research.)"
+  },
+  {
+    "word": "halu",
+    "partOfSpeech": "noun",
+    "definition": "desire, lust, urge",
+    "example": "Hänen halunsa matkustaa maailmalle ja kokea uusia kulttuureita kasvoi vuosi vuodelta. (His desire to travel the world and experience new cultures grew with each passing year.)"
+  },
+  {
+    "word": "herkkä",
+    "partOfSpeech": "adjective",
+    "definition": "sensitive || easily offended",
+    "example": "Hän oli erittäin herkkä taiteen vaikutuksille ja saattoi liikuttua syvästi musiikista ja maalauksista. (He was very sensitive to the influences of art and could be deeply moved by music and paintings.)"
+  },
+  {
+    "word": "jollei",
+    "partOfSpeech": "conjunction",
+    "definition": "unless, if not",
+    "example": "Jollei sääennuste muutu, meidän on parasta valmistautua sateiseen päivään ja ottaa sateenvarjot mukaan. (Unless the weather forecast changes, we'd better prepare for a rainy day and bring umbrellas along.)"
+  },
+  {
+    "word": "kalkkuna",
+    "partOfSpeech": "noun",
+    "definition": "turkey (animal)",
+    "example": "Kalkkuna oli suosittu ruokavalinta kiitospäivän aterialla, ja sitä tarjoiltiin usein monien erilaisten lisukkeiden kera. (Turkey was a popular food choice for the Thanksgiving meal and was often served with a variety of side dishes.)"
+  },
+  {
+    "word": "kerho",
+    "partOfSpeech": "noun",
+    "definition": "club",
+    "example": "Hän oli liittynyt paikalliseen lukupiirikerhoon ja nautti säännöllisistä tapaamisista ja kirjallisuuden keskusteluista. (He had joined the local book club and enjoyed the regular meetings and discussions on literature.)"
+  },
+  {
+    "word": "keskittää",
+    "partOfSpeech": "verb",
+    "definition": "to concentrate, to focus, to centralize",
+    "example": "Johto päätti keskittää voimavaransa keskeisiin hankkeisiin ja priorisoida tärkeimmät tavoitteet tulevalle vuodelle. (The management decided to concentrate their resources on key projects and prioritize the most important goals for the upcoming year.)"
+  },
+  {
+    "word": "kyseessä oleva",
+    "partOfSpeech": "phrase",
+    "definition": "the one being in question",
+    "example": "Tässä tapauksessa kyseessä oleva asiakirja on erittäin tärkeä ja vaatii huolellista tarkastelua ja käsittelyä. (In this case, the document in question is highly important and requires careful examination and handling.)"
+  },
+  {
+    "word": "kohtuullinen",
+    "partOfSpeech": "adjective",
+    "definition": "moderate, fair, reasonable",
+    "example": "Hän odotti kohtuullista palkankorotusta sen jälkeen, kun oli tehnyt pitkään ylimääräistä työtä ja näyttänyt sitoutumisensa yritykseen. (He was expecting a reasonable pay raise after working extra hours for a long time and demonstrating his commitment to the company.)"
+  },
+  {
+    "word": "kotona",
+    "partOfSpeech": "adverb",
+    "definition": "at home",
+    "example": "Hän vietti mielellään viikonloppuja kotona rentoutuen ja nauttien perheen seurasta. (He enjoyed spending weekends at home, relaxing, and enjoying the company of his family.)"
+  },
+  {
+    "word": "kuivata",
+    "partOfSpeech": "verb",
+    "definition": "to dry (transitive)",
+    "example": "Hän käytti pyyhettä kuivatakseen kastuneen lattian ja estääkseen liukastumisvaaran. (He used a towel to dry the wet floor and prevent the risk of slipping.)"
+  },
+  {
+    "word": "kuljettaja",
+    "partOfSpeech": "noun",
+    "definition": "driver",
+    "example": "Kuljettaja oli kokenut ja tunsi reitin erittäin hyvin, mikä teki matkasta sujuvan ja turvallisen. (The driver was experienced and knew the route very well, making the journey smooth and safe.)"
+  },
+  {
+    "word": "lasi",
+    "partOfSpeech": "noun",
+    "definition": "glass",
+    "example": "Hän otti lasin kylmää vettä ja joi sen suurella janolla rankan harjoituksen jälkeen. (He took a glass of cold water and drank it thirstily after a strenuous workout.)"
+  },
+  {
+    "word": "lähetys",
+    "partOfSpeech": "noun",
+    "definition": "delivery, broadcast",
+    "example": "Lähetys saapui perille odotetusti, ja vastaanottaja sai paketin juuri ennen joulua. (The delivery arrived as expected, and the recipient received the package just before Christmas.)"
+  },
+  {
+    "word": "ulkomainen",
+    "partOfSpeech": "adjective",
+    "definition": "foreign",
+    "example": "Hän puhui sujuvasti viittä eri kieltä, mikä auttoi häntä menestymään ulkomaisten asiakkaiden parissa. (He spoke five different languages fluently, which helped him succeed with foreign clients.)"
+  },
+  {
+    "word": "vaatimaton",
+    "partOfSpeech": "adjective",
+    "definition": "modest",
+    "example": "Hän oli vaatimaton henkilö, joka ei koskaan kehunut saavutuksiaan eikä pyrkinyt herättämään huomiota itseensä. (He was a modest person who never boasted about his achievements and didn't seek to draw attention to himself.)"
   }
 ]
