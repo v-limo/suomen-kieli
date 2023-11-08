@@ -6,7 +6,35 @@ Welcome to the Finnish-English Translations repository! This project is dedicate
 
 ### Using Translations
 
-- To access the translations, simply explore the [`translations.json`](./data/translations.json) file. This JSON file contains a growing list of Finnish words and their corresponding English translations.
+- To access the translations, simply explore the [`translations.json`](./data/translations.json) file. This JSON file contains over 3000+ and a growing list of Finnish words and their corresponding English translations.
+
+- Here is the format of the translations
+
+```json
+
+[
+ {
+    "word": "tekniikka",
+    "partOfSpeech": "noun",
+    "definition": "technology",
+    "example": "Tämä yritys panostaa uuteen tekniikkaan. (This company is investing in new technology.)"
+  },
+   {
+    "word": "teknillinen",
+    "partOfSpeech": "adjective",
+    "definition": "technical",
+    "example": "Teknillisessä yliopistossa opiskellaan tekniikkaa. (Technical subjects are studied at the university of technology.)"
+  },
+ {
+    "word": "väki",
+    "partOfSpeech": "noun",
+    "definition": "people",
+    "example": "Tämä väki on erittäin ystävällistä. (These people are very friendly.)"
+  },
+
+ // plus 3k other words  
+]
+```
 
 ### Contributing
 
