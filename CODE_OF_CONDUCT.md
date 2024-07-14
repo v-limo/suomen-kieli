@@ -1,6 +1,8 @@
 # Code of Conduct
 
-We, as contributors and maintainers of the Finnish-English Translations project, pledge to create a welcoming and respectful environment for everyone, regardless of age, ethnicity, gender identity and expression, nationality, level of experience, education, socio-economic status, personal appearance, race, religion, or sexual identity and orientation.
+We, as contributors and maintainers of the Finnish-English Translations project, pledge to create a welcoming and
+respectful environment for everyone, regardless of age, ethnicity, gender identity and expression, nationality, level of
+experience, education, socio-economic status, personal appearance, race, religion, or sexual identity and orientation.
 
 Our Code of Conduct outlines the standards of behavior we expect from all contributors.
 

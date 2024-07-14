@@ -1,6 +1,7 @@
 # Contributing Guidelines
 
-Thank you for considering contributing to the Finnish-English Translations project. We welcome contributions from the community to help us expand and improve our translation database.
+Thank you for considering contributing to the Finnish-English Translations project. We welcome contributions from the
+community to help us expand and improve our translation database.
 
 ## How to Contribute
 
@@ -12,11 +13,13 @@ Thank you for considering contributing to the Finnish-English Translations proje
 6. Push your changes to your forked repository: `git push origin feature/contribution`.
 7. Create a Pull Request (PR) to the main repository. Ensure your PR adheres to our guidelines.
 
-Please review our detailed [Contributing Guidelines](./CONTRIBUTING.md) for more information on how to format contributions, create PRs, and collaborate effectively.
+Please review our detailed [Contributing Guidelines](./CONTRIBUTING.md) for more information on how to format
+contributions, create PRs, and collaborate effectively.
 
 ## Code of Conduct
 
-To maintain a respectful and inclusive environment, all contributors are expected to adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md).
+To maintain a respectful and inclusive environment, all contributors are expected to adhere to
+our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## Licensing
 
