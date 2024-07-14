@@ -3,7 +3,7 @@ import words from "./../data/traslations.json"
 
 
 function App() {
-    const [data, setData] = useState(words);
+    const [data, _] = useState(words);
     const [searchTerm, setSearchTerm] = useState('');
     const [filter, setFilter] = useState('');
     const [visibleCount, setVisibleCount] = useState(20);
