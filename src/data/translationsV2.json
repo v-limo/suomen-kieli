@@ -1,0 +1,606 @@
+[
+  {
+    "word": "olla",
+    "partOfSpeech": "verb",
+    "definition": "to be",
+    "example": "Minä olen opiskelija, mutta sinä et ole. (I am a student, but you are not.)"
+  },
+  {
+    "word": "istua",
+    "partOfSpeech": "verb",
+    "definition": "to sit",
+    "example": "Minä istun puistossa, mutta hän ei istu siellä. (I sit in the park, but he doesn't sit there.)"
+  },
+  {
+    "word": "seisoa",
+    "partOfSpeech": "verb",
+    "definition": "to stand",
+    "example": "Minä seison kadulla, mutta sinä et seiso. (I stand on the street, but you do not stand.)"
+  },
+  {
+    "word": "syödä",
+    "partOfSpeech": "verb",
+    "definition": "to eat",
+    "example": "Minä syön omenan, mutta hän ei syö mitään. (I eat an apple, but he doesn't eat anything.)"
+  },
+  {
+    "word": "juoda",
+    "partOfSpeech": "verb",
+    "definition": "to drink",
+    "example": "Minä juon kahvia, mutta hän ei juo teetä. (I drink coffee, but he doesn't drink tea.)"
+  },
+  {
+    "word": "odottaa",
+    "partOfSpeech": "verb",
+    "definition": "to wait",
+    "example": "Minä odotan bussia, mutta hän ei odota minua. (I wait for the bus, but he doesn't wait for me.)"
+  },
+  {
+    "word": "ymmärtää",
+    "partOfSpeech": "verb",
+    "definition": "to understand",
+    "example": "Minä ymmärrän suomea, mutta sinä et ymmärrä. (I understand Finnish, but you do not understand.)"
+  },
+  {
+    "word": "muistaa",
+    "partOfSpeech": "verb",
+    "definition": "to remember",
+    "example": "Minä muistan sinun nimesi, mutta sinä et muista minun. (I remember your name, but you don't remember mine.)"
+  },
+  {
+    "word": "unohtaa",
+    "partOfSpeech": "verb",
+    "definition": "to forget",
+    "example": "Minä unohdan avaimet usein, mutta hän ei unohda koskaan. (I often forget my keys, but he never forgets.)"
+  },
+  {
+    "word": "ajatella",
+    "partOfSpeech": "verb",
+    "definition": "to think",
+    "example": "Minä ajattelen sinua, mutta hän ei ajattele minua. (I think about you, but he doesn't think about me.)"
+  },
+  {
+    "word": "tietää",
+    "partOfSpeech": "verb",
+    "definition": "to know",
+    "example": "Minä tiedän vastauksen, mutta sinä et tiedä. (I know the answer, but you do not know.)"
+  },
+  {
+    "word": "osata",
+    "partOfSpeech": "verb",
+    "definition": "to know how to do something",
+    "example": "Minä osaan uida, mutta hän ei osaa. (I know how to swim, but he doesn't know how.)"
+  },
+  {
+    "word": "opiskella",
+    "partOfSpeech": "verb",
+    "definition": "to study",
+    "example": "Minä opiskelen suomea, mutta hän ei opiskele mitään. (I study Finnish, but he doesn't study anything.)"
+  },
+  {
+    "word": "oppia",
+    "partOfSpeech": "verb",
+    "definition": "to learn",
+    "example": "Minä opin nopeasti, mutta hän ei opi helposti. (I learn quickly, but he doesn't learn easily.)"
+  },
+  {
+    "word": "kysyä",
+    "partOfSpeech": "verb",
+    "definition": "to ask",
+    "example": "Minä kysyn kysymyksiä, mutta hän ei kysy mitään. (I ask questions, but he doesn't ask anything.)"
+  },
+  {
+    "word": "vastata",
+    "partOfSpeech": "verb",
+    "definition": "to answer",
+    "example": "Minä vastaan puhelimeen, mutta hän ei vastaa. (I answer the phone, but he doesn't answer.)"
+  },
+  {
+    "word": "pyytää",
+    "partOfSpeech": "verb",
+    "definition": "to request",
+    "example": "Minä pyydän apua, mutta hän ei pyydä mitään. (I ask for help, but he doesn't ask for anything.)"
+  },
+  {
+    "word": "sanoa",
+    "partOfSpeech": "verb",
+    "definition": "to say",
+    "example": "Minä sanon totuuden, mutta hän ei sano mitään. (I say the truth, but he doesn't say anything.)"
+  },
+  {
+    "word": "kertoa",
+    "partOfSpeech": "verb",
+    "definition": "to tell",
+    "example": "Minä kerron tarinan, mutta hän ei kerro mitään. (I tell a story, but he doesn't tell anything.)"
+  },
+  {
+    "word": "keskustella",
+    "partOfSpeech": "verb",
+    "definition": "to chat",
+    "example": "Minä keskustelen ystävieni kanssa, mutta hän ei keskustele. (I chat with my friends, but he doesn't chat.)"
+  },
+  {
+    "word": "nukkua",
+    "partOfSpeech": "verb",
+    "definition": "to sleep",
+    "example": "Minä nukun yöllä, mutta hän ei nuku hyvin. (I sleep at night, but he doesn't sleep well.)"
+  },
+  {
+    "word": "herätä",
+    "partOfSpeech": "verb",
+    "definition": "to wake up",
+    "example": "Minä herään aikaisin, mutta hän ei herää. (I wake up early, but he doesn't wake up.)"
+  },
+  {
+    "word": "nousta",
+    "partOfSpeech": "verb",
+    "definition": "to get up",
+    "example": "Minä nousen sängystä, mutta hän ei nouse. (I get up from bed, but he doesn't get up.)"
+  },
+  {
+    "word": "maata",
+    "partOfSpeech": "verb",
+    "definition": "to lie down",
+    "example": "Minä makaan sohvalla, mutta hän ei makaa. (I lie on the couch, but he doesn't lie down.)"
+  },
+  {
+    "word": "pestä",
+    "partOfSpeech": "verb",
+    "definition": "to wash",
+    "example": "Minä pesen kädet, mutta hän ei pese astioita. (I wash my hands, but he doesn't wash the dishes.)"
+  },
+  {
+    "word": "tiskata",
+    "partOfSpeech": "verb",
+    "definition": "to wash dishes",
+    "example": "Minä tiskaan lautaset, mutta hän ei tiskaa mitään. (I wash the plates, but he doesn't wash anything.)"
+  },
+  {
+    "word": "siivota",
+    "partOfSpeech": "verb",
+    "definition": "to clean",
+    "example": "Minä siivoan huoneen, mutta hän ei siivoa. (I clean the room, but he doesn't clean.)"
+  },
+  {
+    "word": "imuroida",
+    "partOfSpeech": "verb",
+    "definition": "to vacuum",
+    "example": "Minä imuroin lattian, mutta hän ei imuroi koskaan. (I vacuum the floor, but he never vacuums.)"
+  },
+  {
+    "word": "uida",
+    "partOfSpeech": "verb",
+    "definition": "to swim",
+    "example": "Minä uin järvessä, mutta hän ei ui. (I swim in the lake, but he doesn't swim.)"
+  },
+  {
+    "word": "kävellä",
+    "partOfSpeech": "verb",
+    "definition": "to walk",
+    "example": "Minä kävelen metsään, mutta hän ei kävele. (I walk to the forest, but he doesn't walk.)"
+  },
+  {
+    "word": "pyöräillä",
+    "partOfSpeech": "verb",
+    "definition": "to ride a bike",
+    "example": "Minä pyöräilen kouluun, mutta hän ei pyöräile. (I ride a bike to school, but he doesn't ride a bike.)"
+  },
+  {
+    "word": "ajaa",
+    "partOfSpeech": "verb",
+    "definition": "to drive",
+    "example": "Minä ajan autoa, mutta hän ei aja. (I drive a car, but he doesn't drive.)"
+  },
+  
+    {
+      "word": "juosta",
+      "partOfSpeech": "verb",
+      "definition": "to run",
+      "example": "Minä juoksen puistossa, mutta hän ei juokse koskaan. (I run in the park, but he never runs.)"
+    },
+    {
+      "word": "pelata",
+      "partOfSpeech": "verb",
+      "definition": "to play sports",
+      "example": "Minä pelaan jalkapalloa, mutta hän ei pelaa mitään. (I play soccer, but he doesn't play anything.)"
+    },
+    {
+      "word": "leikkiä",
+      "partOfSpeech": "verb",
+      "definition": "to play (child)",
+      "example": "Minä leikin puistossa, mutta hän ei leiki muiden kanssa. (I play in the park, but he doesn't play with others.)"
+    },
+    {
+      "word": "soittaa",
+      "partOfSpeech": "verb",
+      "definition": "to play / to call",
+      "example": "Minä soitan pianoa, mutta hän ei soita mitään instrumenttia. (I play the piano, but he doesn't play any instrument.)"
+    },
+    {
+      "word": "ottaa",
+      "partOfSpeech": "verb",
+      "definition": "to take",
+      "example": "Minä otan kuvan, mutta hän ei ota mitään. (I take a picture, but he doesn't take anything.)"
+    },
+    {
+      "word": "antaa",
+      "partOfSpeech": "verb",
+      "definition": "to give",
+      "example": "Minä annan lahjan, mutta hän ei anna mitään. (I give a gift, but he doesn't give anything.)"
+    },
+    {
+      "word": "lainata",
+      "partOfSpeech": "verb",
+      "definition": "to borrow / lend",
+      "example": "Minä lainaan kirjan, mutta hän ei lainaa mitään. (I borrow a book, but he doesn't borrow anything.)"
+    },
+    {
+      "word": "tavata",
+      "partOfSpeech": "verb",
+      "definition": "to meet",
+      "example": "Minä tapaan ystävän, mutta hän ei tapaa ketään. (I meet a friend, but he doesn't meet anyone.)"
+    },
+    {
+      "word": "tutustua",
+      "partOfSpeech": "verb",
+      "definition": "to get to know",
+      "example": "Minä tutustun uusiin ihmisiin, mutta hän ei tutustu kehenkään. (I get to know new people, but he doesn't get to know anyone.)"
+    },
+    {
+      "word": "tehdä",
+      "partOfSpeech": "verb",
+      "definition": "to do",
+      "example": "Minä teen kotitehtävät, mutta hän ei tee mitään. (I do the homework, but he doesn't do anything.)"
+    },
+    {
+      "word": "nähdä",
+      "partOfSpeech": "verb",
+      "definition": "to see",
+      "example": "Minä näen elokuvan, mutta hän ei näe mitään. (I see a movie, but he doesn't see anything.)"
+    },
+    {
+      "word": "katsoa",
+      "partOfSpeech": "verb",
+      "definition": "to watch",
+      "example": "Minä katson televisiota, mutta hän ei katso. (I watch television, but he doesn't watch.)"
+    },
+    {
+      "word": "tulla",
+      "partOfSpeech": "verb",
+      "definition": "to come",
+      "example": "Minä tulen kotiin, mutta hän ei tule. (I come home, but he doesn't come.)"
+    },
+    {
+      "word": "mennä",
+      "partOfSpeech": "verb",
+      "definition": "to go",
+      "example": "Minä menen kauppaan, mutta hän ei mene. (I go to the store, but he doesn't go.)"
+    },
+    {
+      "word": "lähteä",
+      "partOfSpeech": "verb",
+      "definition": "to leave",
+      "example": "Minä lähden töihin, mutta hän ei lähde. (I leave for work, but he doesn't leave.)"
+    },
+    {
+      "word": "jäädä",
+      "partOfSpeech": "verb",
+      "definition": "to stay",
+      "example": "Minä jään kotiin, mutta hän ei jää. (I stay at home, but he doesn't stay.)"
+    },
+    {
+      "word": "saapua",
+      "partOfSpeech": "verb",
+      "definition": "to arrive",
+      "example": "Minä saavun ajoissa, mutta hän ei saavu. (I arrive on time, but he doesn't arrive.)"
+    },
+    {
+      "word": "käydä",
+      "partOfSpeech": "verb",
+      "definition": "to visit",
+      "example": "Minä käyn ystävän luona, mutta hän ei käy missään. (I visit a friend, but he doesn't visit anywhere.)"
+    },
+    {
+      "word": "tuoda",
+      "partOfSpeech": "verb",
+      "definition": "to bring",
+      "example": "Minä tuon ruokaa, mutta hän ei tuo mitään. (I bring food, but he doesn't bring anything.)"
+    },
+    {
+      "word": "viedä",
+      "partOfSpeech": "verb",
+      "definition": "to take somewhere",
+      "example": "Minä vien roskat ulos, mutta hän ei vie niitä. (I take the trash out, but he doesn't take them.)"
+    },
+    {
+      "word": "rakastaa",
+      "partOfSpeech": "verb",
+      "definition": "to love",
+      "example": "Minä rakastan sinua, mutta hän ei rakasta ketään. (I love you, but he doesn't love anyone.)"
+    },
+    {
+      "word": "vihata",
+      "partOfSpeech": "verb",
+      "definition": "to hate",
+      "example": "Minä vihaan sotaa, mutta hän ei vihaa mitään. (I hate war, but he doesn't hate anything.)"
+    },
+    {
+      "word": "tykätä",
+      "partOfSpeech": "verb",
+      "definition": "to like",
+      "example": "Minä tykkään suklaasta, mutta hän ei tykkää. (I like chocolate, but he doesn't like.)"
+    },
+    {
+      "word": "pelätä",
+      "partOfSpeech": "verb",
+      "definition": "to fear",
+      "example": "Minä pelkään pimeää, mutta hän ei pelkää mitään. (I fear the dark, but he doesn't fear anything.)"
+    },
+    {
+      "word": "pukea",
+      "partOfSpeech": "verb",
+      "definition": "to dress",
+      "example": "Minä puen takin, mutta hän ei pue mitään. (I put on a coat, but he doesn't put on anything.)"
+    },
+    {
+      "word": "riisua",
+      "partOfSpeech": "verb",
+      "definition": "to undress",
+      "example": "Minä riisun kengät, mutta hän ei riisu. (I take off my shoes, but he doesn't undress.)"
+    },
+    {
+      "word": "maksaa",
+      "partOfSpeech": "verb",
+      "definition": "to pay",
+      "example": "Minä maksan laskun, mutta hän ei maksa. (I pay the bill, but he doesn't pay.)"
+    },
+    {
+      "word": "ostaa",
+      "partOfSpeech": "verb",
+      "definition": "to buy",
+      "example": "Minä ostan ruokaa, mutta hän ei osta mitään. (I buy food, but he doesn't buy anything.)"
+    },
+    {
+      "word": "myydä",
+      "partOfSpeech": "verb",
+      "definition": "to sell",
+      "example": "Minä myyn autoni, mutta hän ei myy mitään. (I sell my car, but he doesn't sell anything.)"
+    },
+    {
+      "word": "kirjoittaa",
+      "partOfSpeech": "verb",
+      "definition": "to write",
+      "example": "Minä kirjoitan kirjeen, mutta hän ei kirjoita. (I write a letter, but he doesn't write.)"
+    },
+    {
+      "word": "lukea",
+      "partOfSpeech": "verb",
+      "definition": "to read",
+      "example": "Minä luen kirjaa, mutta hän ei lue mitään. (I read a book, but he doesn't read anything.)"
+    },
+    {
+      "word": "kuunnella",
+      "partOfSpeech": "verb",
+      "definition": "to listen",
+      "example": "Minä kuuntelen musiikkia, mutta hän ei kuuntele. (I listen to music, but he doesn't listen.)"
+    },
+    {
+      "word": "kuulla",
+      "partOfSpeech": "verb",
+      "definition": "to hear",
+      "example": "Minä kuulen linnun laulavan, mutta hän ei kuule mitään. (I hear the bird singing, but he doesn't hear anything.)"
+    },
+    {
+      "word": "piirtää",
+      "partOfSpeech": "verb",
+      "definition": "to draw",
+      "example": "Minä piirrän maiseman, mutta hän ei piirrä koskaan. (I draw a landscape, but he never draws.)"
+    },
+    {
+      "word": "maalata",
+      "partOfSpeech": "verb",
+      "definition": "to paint",
+      "example": "Minä maalaan taulun, mutta hän ei maalaa mitään. (I paint a picture, but he doesn't paint anything.)"
+    },
+    {
+      "word": "nauraa",
+      "partOfSpeech": "verb",
+      "definition": "to laugh",
+      "example": "Minä nauran vitsille, mutta hän ei naura koskaan. (I laugh at the joke, but he never laughs.)"
+    },
+    {
+      "word": "itkeä",
+      "partOfSpeech": "verb",
+      "definition": "to cry",
+      "example": "Minä itken elokuvassa, mutta hän ei itke koskaan. (I cry at the movie, but he never cries.)"
+    },
+    {
+      "word": "hymyillä",
+      "partOfSpeech": "verb",
+      "definition": "to smile",
+      "example": "Minä hymyilen usein, mutta hän ei hymyile. (I smile often, but he doesn't smile.)"
+    },
+    {
+      "word": "matkustaa",
+      "partOfSpeech": "verb",
+      "definition": "to travel",
+      "example": "Minä matkustan paljon, mutta hän ei matkusta ollenkaan. (I travel a lot, but he doesn't travel at all.)"
+    },
+    {
+      "word": "muuttaa",
+      "partOfSpeech": "verb",
+      "definition": "to move house",
+      "example": "Minä muutan uuteen kaupunkiin, mutta hän ei muuta koskaan. (I move to a new city, but he never moves.)"
+    },
+    {
+      "word": "työntää",
+      "partOfSpeech": "verb",
+      "definition": "to push",
+      "example": "Minä työnnän oven auki, mutta hän ei työnnä koskaan. (I push the door open, but he never pushes.)"
+    },
+    {
+      "word": "vetää",
+      "partOfSpeech": "verb",
+      "definition": "to pull",
+      "example": "Minä vedän narusta, mutta hän ei vedä koskaan. (I pull the string, but he never pulls.)"
+    },
+    {
+      "word": "nostaa",
+      "partOfSpeech": "verb",
+      "definition": "to lift",
+      "example": "Minä nostan painoja, mutta hän ei nosta mitään. (I lift weights, but he doesn't lift anything.)"
+    },
+    {
+      "word": "laskea",
+      "partOfSpeech": "verb",
+      "definition": "to count",
+      "example": "Minä lasken rahat, mutta hän ei laske mitään. (I count the money, but he doesn't count anything.)"
+    },
+    {
+      "word": "laittaa",
+      "partOfSpeech": "verb",
+      "definition": "to put",
+      "example": "Minä laitan kirjan hyllyyn, mutta hän ei laita mitään. (I put the book on the shelf, but he doesn't put anything.)"
+    },
+    {
+      "word": "heitää",
+      "partOfSpeech": "verb",
+      "definition": "to throw",
+      "example": "Minä heitän pallon, mutta hän ei heitä mitään. (I throw the ball, but he doesn't throw anything.)"
+    },
+    {
+      "word": "häiritä",
+      "partOfSpeech": "verb",
+      "definition": "to disturb",
+      "example": "Minä häiritsen sinua, mutta hän ei häiritse koskaan. (I disturb you, but he never disturbs.)"
+    },
+    {
+      "word": "valita",
+      "partOfSpeech": "verb",
+      "definition": "to choose",
+      "example": "Minä valitsen omenan, mutta hän ei valitse mitään. (I choose an apple, but he doesn't choose anything.)"
+    },
+    {
+      "word": "tarvita",
+      "partOfSpeech": "verb",
+      "definition": "to need",
+      "example": "Minä tarvitsen apua, mutta hän ei tarvitse mitään. (I need help, but he doesn't need anything.)"
+    },
+    {
+      "word": "hoitaa",
+      "partOfSpeech": "verb",
+      "definition": "to take care of",
+      "example": "Minä hoidan puutarhaa, mutta hän ei hoida mitään. (I take care of the garden, but he doesn't take care of anything.)"
+    },
+    {
+      "word": "auttaa",
+      "partOfSpeech": "verb",
+      "definition": "to help",
+      "example": "Minä autan sinua, mutta hän ei auta ketään. (I help you, but he doesn't help anyone.)"
+    },
+    {
+      "word": "varata",
+      "partOfSpeech": "verb",
+      "definition": "to reserve",
+      "example": "Minä varaan pöydän, mutta hän ei varaa koskaan. (I reserve a table, but he never reserves.)"
+    },
+    {
+      "word": "tilata",
+      "partOfSpeech": "verb",
+      "definition": "to order (drinks)",
+      "example": "Minä tilaan kahvin, mutta hän ei tilaa mitään. (I order a coffee, but he doesn't order anything.)"
+    },
+    {
+      "word": "asua",
+      "partOfSpeech": "verb",
+      "definition": "to live somewhere",
+      "example": "Minä asun kaupungissa, mutta hän ei asu täällä. (I live in the city, but he doesn't live here.)"
+    },
+    {
+      "word": "syntyä",
+      "partOfSpeech": "verb",
+      "definition": "to be born",
+      "example": "Minä synnyn talvella, mutta hän ei synny Suomessa. (I am born in the winter, but he isn't born in Finland.)"
+    },
+    {
+      "word": "elää",
+      "partOfSpeech": "verb",
+      "definition": "to be alive",
+      "example": "Minä elän täysillä, mutta hän ei elä lainkaan. (I live fully, but he doesn't live at all.)"
+    },
+    {
+      "word": "kuolla",
+      "partOfSpeech": "verb",
+      "definition": "to die",
+      "example": "Minä kuolen mieluummin kuin luovutan, mutta hän ei kuole koskaan. (I would rather die than give up, but he never dies.)"
+    },
+    {
+      "word": "etsiä",
+      "partOfSpeech": "verb",
+      "definition": "to search",
+      "example": "Minä etsin avaimiani, mutta hän ei etsi mitään. (I search for my keys, but he doesn't search for anything.)"
+    },
+    {
+      "word": "löytää",
+      "partOfSpeech": "verb",
+      "definition": "to find",
+      "example": "Minä löydän vastauksen, mutta hän ei löydä mitään. (I find the answer, but he doesn't find anything.)"
+    },
+    {
+      "word": "avata",
+      "partOfSpeech": "verb",
+      "definition": "to open",
+      "example": "Minä avaan oven, mutta hän ei avaa mitään. (I open the door, but he doesn't open anything.)"
+    },
+    {
+      "word": "sulkea",
+      "partOfSpeech": "verb",
+      "definition": "to close",
+      "example": "Minä suljen ikkunan, mutta hän ei sulje mitään. (I close the window, but he doesn't close anything.)"
+    },
+    {
+      "word": "korjata",
+      "partOfSpeech": "verb",
+      "definition": "to fix",
+      "example": "Minä korjaan auton, mutta hän ei korjaa mitään. (I fix the car, but he doesn't fix anything.)"
+    },
+    {
+      "word": "riittää",
+      "partOfSpeech": "verb",
+      "definition": "to be enough",
+      "example": "Minä riitän kaikille, mutta hän ei riitä koskaan. (I am enough for everyone, but he is never enough.)"
+    },
+    {
+      "word": "laulaa",
+      "partOfSpeech": "verb",
+      "definition": "to sing",
+      "example": "Minä laulan kuorossa, mutta hän ei laula koskaan. (I sing in the choir, but he never sings.)"
+    },
+    {
+      "word": "tapahtua",
+      "partOfSpeech": "verb",
+      "definition": "to happen",
+      "example": "Se tapahtuu pian, mutta se ei tapahdu enää. (It's happening soon, but it won't happen anymore.)"
+    },
+    {
+      "word": "alkaa",
+      "partOfSpeech": "verb",
+      "definition": "to start",
+      "example": "Konsertti alkaa kello seitsemän, mutta se ei ala ajoissa. (The concert starts at seven, but it doesn't start on time.)"
+    },
+    {
+      "word": "aloittaa",
+      "partOfSpeech": "verb",
+      "definition": "to begin",
+      "example": "Minä aloitan uuden projektin, mutta hän ei aloita koskaan mitään. (I start a new project, but he never starts anything.)"
+    },
+    {
+      "word": "loppua",
+      "partOfSpeech": "verb",
+      "definition": "to end",
+      "example": "Elokuvan loppu on liikuttava, mutta se ei lopu odotetusti. (The end of the movie is touching, but it doesn't end as expected.)"
+    }
+  ]
+
+ 
+
