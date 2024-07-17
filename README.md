@@ -6,33 +6,29 @@ Welcome to the Finnish-English Translations repository! This project is dedicate
 
 ### Using Translations
 
-- To access the translations, simply explore the [`translations.json`](./data/translations.json) file. This JSON file contains over 3000+ and a growing list of Finnish words and their corresponding English translations.
+- To access the translations, explore the [`translations.json`](./src/data/translations.json) file. This JSON file
+  contains over 2000+ and a growing list of Finnish words and their corresponding English translations.
 
 - Here is the format of the translations
 
 ```json
 
 [
- {
+  {
     "word": "tekniikka",
     "partOfSpeech": "noun",
     "definition": "technology",
-    "example": "Tämä yritys panostaa uuteen tekniikkaan. (This company is investing in new technology.)"
+    "example": "Tämä yritys panostaa uuteen tekniikkaan. (This company is investing in new technology.)",
+    "id": "20739281626862027"
   },
-   {
+  {
     "word": "teknillinen",
     "partOfSpeech": "adjective",
     "definition": "technical",
-    "example": "Teknillisessä yliopistossa opiskellaan tekniikkaa. (Technical subjects are studied at the university of technology.)"
-  },
- {
-    "word": "väki",
-    "partOfSpeech": "noun",
-    "definition": "people",
-    "example": "Tämä väki on erittäin ystävällistä. (These people are very friendly.)"
-  },
-
- // plus 3k other words  
+    "example": "Teknillisessä yliopistossa opiskellaan tekniikkaa. (Technical subjects are studied at the university of technology.)",
+    "id": "20739281626862028"
+  }
+  // plus 2k other words  
 ]
 ```
 
@@ -41,7 +37,7 @@ Welcome to the Finnish-English Translations repository! This project is dedicate
 - If you'd like to contribute to our translation database, we welcome your help. Follow these steps to contribute:
   1. Fork this repository to your GitHub account.
   2. Clone the forked repository to your local machine.
-  3. Add new translations or improve existing ones in the [`translations.json`](./data/translations.json) file.
+  3. Add new translations or improve existing ones in the [`translations.json`](./src/data/translations.json) file.
   4. Commit your changes with descriptive messages.
   5. Push your changes to your forked repository.
   6. Create a Pull Request (PR) to merge your contributions into this main repository.
