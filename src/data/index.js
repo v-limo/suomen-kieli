@@ -27,10 +27,13 @@ if (data1 && data2) {
     const uniqueData = [];
     const seenWords = new Set();
 
-    combinedData.forEach((entry) => {
+    combinedData.forEach((entry, index) => {
         if (!seenWords.has(entry.word)) {
             seenWords.add(entry.word);
-            uniqueData.push(entry);
+            uniqueData.push({
+                ...entry,
+                id: (Math.random() + Math.random() + index).toString().replace(/[^a-z0-9]/g, ''),
+            });
         }
     });
 

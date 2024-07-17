@@ -106,9 +106,9 @@ function App() {
             >
               All ({words.length.toLocaleString()})
             </button>
-            {partsOfSpeech.map((part, index) => (
+            {partsOfSpeech.map((part) => (
               <button
-                key={index}
+                key={part}
                 className={`flex w-full m-0.5 sm:w-auto p-1 text-xs rounded ${
                   filter === part
                     ? "bg-blue-500 text-white"
@@ -128,9 +128,9 @@ function App() {
       )}
 
       <div className="flex flex-wrap justify-center gap-4 md:gap-6">
-        {filteredData.slice(0, visibleCount).map((item, index) => (
+        {filteredData.slice(0, visibleCount).map((item) => (
           <div
-            key={index}
+            key={item.id.toString()}
             className="w-full sm:w-1/2 md:w-1/3 lg:w-1/3 xl:w-1/4 mb-4"
           >
             <div className="h-full rounded overflow-hidden shadow-lg bg-white transform transition-transform hover:scale-105 flex flex-col">
@@ -159,9 +159,9 @@ function App() {
                     {item.example
                       .slice(0, item.example.indexOf("("))
                       .split(" ")
-                      .map((word, i) => (
+                      .map((word ) => (
                         <span
-                          key={i}
+                          key={item.id.toString()}
                           className={`text-base cursor-pointer ${
                             word
                               .toLowerCase()
