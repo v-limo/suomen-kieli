@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState } from "react";
 import words from "./data/translations.json";
-import { FaGithub } from 'react-icons/fa';
+// import { FaGithub } from 'react-icons/fa';
 
 function App() {
     const [data, _] = useState(words);
