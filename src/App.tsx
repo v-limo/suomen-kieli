@@ -83,10 +83,6 @@ function App() {
                         Parts of Speech
                     </span>
                 </label>
-                <a href="https://github.com/v-limo?tab=repositories" target="_blank" rel="noopener noreferrer"
-                    className="flex items-center text-gray-900  hover:text-blue-600 transition-colors duration-200">
-                    <FaGithub size={24} className="ml-3" />
-                </a>
             </div>
 
 
